@@ -3,4 +3,4 @@ Web frontend application to browse all health data references and interact from 
 
 Compare it to the LOINC Reference database and their search portal: https://loinc.org/search/
 
-!(LOINC search)[LOINC_search.png]
+![LOINC search](LOINC_search.png)
