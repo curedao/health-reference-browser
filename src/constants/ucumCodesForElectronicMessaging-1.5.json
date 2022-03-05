@@ -1,0 +1,3394 @@
+[
+  {
+    "UCUM_CODE": "10.L/min",
+    "UNIT_LONG_NAME": "10 liter per minute"
+  },
+  {
+    "UCUM_CODE": "10.L/(min.m2)",
+    "UNIT_LONG_NAME": "10 liter per minute per square meter"
+  },
+  {
+    "UCUM_CODE": "10.uN.s/(cm5.m2)",
+    "UNIT_LONG_NAME": "10 micronewton second per centimeter to the fifth power per square meter"
+  },
+  {
+    "UCUM_CODE": "10*4/uL",
+    "UNIT_LONG_NAME": "10 thousand per microliter"
+  },
+  {
+    "UCUM_CODE": "10*8",
+    "UNIT_LONG_NAME": "100 million"
+  },
+  {
+    "UCUM_CODE": "24.h",
+    "UNIT_LONG_NAME": "24 hour"
+  },
+  {
+    "UCUM_CODE": "{absorbance}",
+    "UNIT_LONG_NAME": "absorbance"
+  },
+  {
+    "UCUM_CODE": "{activity}",
+    "UNIT_LONG_NAME": "activity"
+  },
+  {
+    "UCUM_CODE": "[AU]",
+    "UNIT_LONG_NAME": "allergy unit"
+  },
+  {
+    "UCUM_CODE": "{AHF'U}",
+    "UNIT_LONG_NAME": "American Hospital Formulary unit"
+  },
+  {
+    "UCUM_CODE": "A",
+    "UNIT_LONG_NAME": "ampere"
+  },
+  {
+    "UCUM_CODE": "A/m",
+    "UNIT_LONG_NAME": "ampere per meter"
+  },
+  {
+    "UCUM_CODE": "[arb'U]",
+    "UNIT_LONG_NAME": "arbitrary unit"
+  },
+  {
+    "UCUM_CODE": "[arb'U]/mL",
+    "UNIT_LONG_NAME": "arbitrary unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "{ARU}",
+    "UNIT_LONG_NAME": "aspirin response unit"
+  },
+  {
+    "UCUM_CODE": "atm",
+    "UNIT_LONG_NAME": "atmosphere"
+  },
+  {
+    "UCUM_CODE": "ag/{cell}",
+    "UNIT_LONG_NAME": "attogram per cell"
+  },
+  {
+    "UCUM_CODE": "bar",
+    "UNIT_LONG_NAME": "bar"
+  },
+  {
+    "UCUM_CODE": "Bq",
+    "UNIT_LONG_NAME": "Becquerel"
+  },
+  {
+    "UCUM_CODE": "[beth'U]",
+    "UNIT_LONG_NAME": "Bethesda unit"
+  },
+  {
+    "UCUM_CODE": "10*9/L",
+    "UNIT_LONG_NAME": "billion per liter"
+  },
+  {
+    "UCUM_CODE": "10*9/uL",
+    "UNIT_LONG_NAME": "billion per microliter"
+  },
+  {
+    "UCUM_CODE": "10*9/mL",
+    "UNIT_LONG_NAME": "billion per milliliter"
+  },
+  {
+    "UCUM_CODE": "{binding_index}",
+    "UNIT_LONG_NAME": "binding index"
+  },
+  {
+    "UCUM_CODE": "[bdsk'U]",
+    "UNIT_LONG_NAME": "Bodansky unit"
+  },
+  {
+    "UCUM_CODE": "{breaths}/min",
+    "UNIT_LONG_NAME": "breaths per minute"
+  },
+  {
+    "UCUM_CODE": "{CAG_repeats}",
+    "UNIT_LONG_NAME": "CAG trinucleotide repeats"
+  },
+  {
+    "UCUM_CODE": "cal",
+    "UNIT_LONG_NAME": "calorie"
+  },
+  {
+    "UCUM_CODE": "{cells}",
+    "UNIT_LONG_NAME": "cells"
+  },
+  {
+    "UCUM_CODE": "{cells}/[HPF]",
+    "UNIT_LONG_NAME": "cells per high power field"
+  },
+  {
+    "UCUM_CODE": "{cells}/uL",
+    "UNIT_LONG_NAME": "cells per microliter"
+  },
+  {
+    "UCUM_CODE": "cg",
+    "UNIT_LONG_NAME": "centigram"
+  },
+  {
+    "UCUM_CODE": "cL",
+    "UNIT_LONG_NAME": "centiliter"
+  },
+  {
+    "UCUM_CODE": "cm",
+    "UNIT_LONG_NAME": "centimeter"
+  },
+  {
+    "UCUM_CODE": "cm[Hg]",
+    "UNIT_LONG_NAME": "centimeter of mercury"
+  },
+  {
+    "UCUM_CODE": "cm[H2O]",
+    "UNIT_LONG_NAME": "centimeter of water"
+  },
+  {
+    "UCUM_CODE": "cm[H2O]/L/s",
+    "UNIT_LONG_NAME": "centimeter of water per liter per second"
+  },
+  {
+    "UCUM_CODE": "cm[H2O]/s/m",
+    "UNIT_LONG_NAME": "centimeter of water per second per meter"
+  },
+  {
+    "UCUM_CODE": "cm/s",
+    "UNIT_LONG_NAME": "centimeter per second"
+  },
+  {
+    "UCUM_CODE": "cP",
+    "UNIT_LONG_NAME": "centipoise"
+  },
+  {
+    "UCUM_CODE": "cSt",
+    "UNIT_LONG_NAME": "centistoke"
+  },
+  {
+    "UCUM_CODE": "{delta_OD}",
+    "UNIT_LONG_NAME": "change in (delta) optical density"
+  },
+  {
+    "UCUM_CODE": "{clock_time}",
+    "UNIT_LONG_NAME": "clock time e.g 12:30PM"
+  },
+  {
+    "UCUM_CODE": "[CFU]",
+    "UNIT_LONG_NAME": "colony forming unit"
+  },
+  {
+    "UCUM_CODE": "[CFU]/L",
+    "UNIT_LONG_NAME": "colony forming unit per liter"
+  },
+  {
+    "UCUM_CODE": "[CFU]/mL",
+    "UNIT_LONG_NAME": "colony forming unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "{CAE'U}",
+    "UNIT_LONG_NAME": "complement activity enzyme unit"
+  },
+  {
+    "UCUM_CODE": "{CH100'U}",
+    "UNIT_LONG_NAME": "complement CH100 unit"
+  },
+  {
+    "UCUM_CODE": "{copies}",
+    "UNIT_LONG_NAME": "copies"
+  },
+  {
+    "UCUM_CODE": "{copies}/ug",
+    "UNIT_LONG_NAME": "copies per microgram"
+  },
+  {
+    "UCUM_CODE": "{copies}/mL",
+    "UNIT_LONG_NAME": "copies per milliliter"
+  },
+  {
+    "UCUM_CODE": "{count}",
+    "UNIT_LONG_NAME": "count"
+  },
+  {
+    "UCUM_CODE": "{CPM}",
+    "UNIT_LONG_NAME": "counts per minute"
+  },
+  {
+    "UCUM_CODE": "{CPM}/10*3{cell}",
+    "UNIT_LONG_NAME": "counts per minute per thousand cells"
+  },
+  {
+    "UCUM_CODE": "cm3",
+    "UNIT_LONG_NAME": "cubic centimeter"
+  },
+  {
+    "UCUM_CODE": "[cin_i]",
+    "UNIT_LONG_NAME": "cubic inch (international)"
+  },
+  {
+    "UCUM_CODE": "m3/s",
+    "UNIT_LONG_NAME": "cubic meter per second"
+  },
+  {
+    "UCUM_CODE": "{Ct_value}",
+    "UNIT_LONG_NAME": "Cycle threshold value"
+  },
+  {
+    "UCUM_CODE": "d",
+    "UNIT_LONG_NAME": "day"
+  },
+  {
+    "UCUM_CODE": "d/(7.d)",
+    "UNIT_LONG_NAME": "day per 7 day"
+  },
+  {
+    "UCUM_CODE": "d/wk",
+    "UNIT_LONG_NAME": "days per week"
+  },
+  {
+    "UCUM_CODE": "dB",
+    "UNIT_LONG_NAME": "decibel"
+  },
+  {
+    "UCUM_CODE": "dg",
+    "UNIT_LONG_NAME": "decigram"
+  },
+  {
+    "UCUM_CODE": "dL",
+    "UNIT_LONG_NAME": "deciliter"
+  },
+  {
+    "UCUM_CODE": "dm",
+    "UNIT_LONG_NAME": "decimeter"
+  },
+  {
+    "UCUM_CODE": "deg",
+    "UNIT_LONG_NAME": "degree (plane angle)"
+  },
+  {
+    "UCUM_CODE": "Cel",
+    "UNIT_LONG_NAME": "degree Celsius"
+  },
+  {
+    "UCUM_CODE": "[degF]",
+    "UNIT_LONG_NAME": "degree Fahrenheit"
+  },
+  {
+    "UCUM_CODE": "K",
+    "UNIT_LONG_NAME": "degree Kelvin"
+  },
+  {
+    "UCUM_CODE": "K/W",
+    "UNIT_LONG_NAME": "degree Kelvin per Watt"
+  },
+  {
+    "UCUM_CODE": "deg/s",
+    "UNIT_LONG_NAME": "degree per second"
+  },
+  {
+    "UCUM_CODE": "daL/min",
+    "UNIT_LONG_NAME": "dekaliter per minute"
+  },
+  {
+    "UCUM_CODE": "daL/min/m2",
+    "UNIT_LONG_NAME": "dekaliter per minute per square meter"
+  },
+  {
+    "UCUM_CODE": "{dilution}",
+    "UNIT_LONG_NAME": "dilution"
+  },
+  {
+    "UCUM_CODE": "[diop]",
+    "UNIT_LONG_NAME": "diopter"
+  },
+  {
+    "UCUM_CODE": "[dr_av]",
+    "UNIT_LONG_NAME": "dram  (US and British)"
+  },
+  {
+    "UCUM_CODE": "[drp]",
+    "UNIT_LONG_NAME": "drop (1/12 milliliter)"
+  },
+  {
+    "UCUM_CODE": "dyn.s/cm",
+    "UNIT_LONG_NAME": "dyne second per centimeter"
+  },
+  {
+    "UCUM_CODE": "dyn.s/(cm.m2)",
+    "UNIT_LONG_NAME": "dyne second per centimeter per square meter"
+  },
+  {
+    "UCUM_CODE": "{Ehrlich'U}",
+    "UNIT_LONG_NAME": "Ehrlich unit"
+  },
+  {
+    "UCUM_CODE": "{Ehrlich'U}/100.g",
+    "UNIT_LONG_NAME": "Ehrlich unit per 100 gram"
+  },
+  {
+    "UCUM_CODE": "{Ehrlich'U}/(2.h)",
+    "UNIT_LONG_NAME": "Ehrlich unit per 2 hour"
+  },
+  {
+    "UCUM_CODE": "{Ehrlich'U}/d",
+    "UNIT_LONG_NAME": "Ehrlich unit per day"
+  },
+  {
+    "UCUM_CODE": "{Ehrlich'U}/dL",
+    "UNIT_LONG_NAME": "Ehrlich unit per deciliter"
+  },
+  {
+    "UCUM_CODE": "{EIA_index}",
+    "UNIT_LONG_NAME": "EIA index"
+  },
+  {
+    "UCUM_CODE": "{EIA_titer}",
+    "UNIT_LONG_NAME": "EIA titer"
+  },
+  {
+    "UCUM_CODE": "{EIA'U}",
+    "UNIT_LONG_NAME": "EIA unit"
+  },
+  {
+    "UCUM_CODE": "{EIA'U}/U",
+    "UNIT_LONG_NAME": "EIA unit per enzyme unit"
+  },
+  {
+    "UCUM_CODE": "{EV}",
+    "UNIT_LONG_NAME": "EIA value"
+  },
+  {
+    "UCUM_CODE": "eV",
+    "UNIT_LONG_NAME": "electron Volt"
+  },
+  {
+    "UCUM_CODE": "{ELISA'U}",
+    "UNIT_LONG_NAME": "ELISA unit"
+  },
+  {
+    "UCUM_CODE": "U",
+    "UNIT_LONG_NAME": "enzyme unit"
+  },
+  {
+    "UCUM_CODE": "U/10",
+    "UNIT_LONG_NAME": "enzyme unit per 10"
+  },
+  {
+    "UCUM_CODE": "U/10*10",
+    "UNIT_LONG_NAME": "enzyme unit per 10 billion"
+  },
+  {
+    "UCUM_CODE": "U/10*10{cells}",
+    "UNIT_LONG_NAME": "enzyme unit per 10 billion cells"
+  },
+  {
+    "UCUM_CODE": "U/(10.g){feces}",
+    "UNIT_LONG_NAME": "enzyme unit per 10 gram of feces"
+  },
+  {
+    "UCUM_CODE": "U/(12.h)",
+    "UNIT_LONG_NAME": "enzyme unit per 12 hour"
+  },
+  {
+    "UCUM_CODE": "U/(2.h)",
+    "UNIT_LONG_NAME": "enzyme unit per 2 hour"
+  },
+  {
+    "UCUM_CODE": "U/(24.h)",
+    "UNIT_LONG_NAME": "enzyme unit per 24 hour"
+  },
+  {
+    "UCUM_CODE": "U/10*9",
+    "UNIT_LONG_NAME": "enzyme unit per billion"
+  },
+  {
+    "UCUM_CODE": "U/d",
+    "UNIT_LONG_NAME": "enzyme unit per day"
+  },
+  {
+    "UCUM_CODE": "U/dL",
+    "UNIT_LONG_NAME": "enzyme unit per deciliter"
+  },
+  {
+    "UCUM_CODE": "U/g",
+    "UNIT_LONG_NAME": "enzyme unit per gram"
+  },
+  {
+    "UCUM_CODE": "U/g{creat}",
+    "UNIT_LONG_NAME": "enzyme unit per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "U/g{Hb}",
+    "UNIT_LONG_NAME": "enzyme unit per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "U/g{protein}",
+    "UNIT_LONG_NAME": "enzyme unit per gram of protein"
+  },
+  {
+    "UCUM_CODE": "U/h",
+    "UNIT_LONG_NAME": "enzyme unit per hour"
+  },
+  {
+    "UCUM_CODE": "U/kg{Hb}",
+    "UNIT_LONG_NAME": "enzyme unit per kilogram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "U/L",
+    "UNIT_LONG_NAME": "enzyme unit per liter"
+  },
+  {
+    "UCUM_CODE": "U{25Cel}/L",
+    "UNIT_LONG_NAME": "enzyme unit per liter at 25 deg Celsius"
+  },
+  {
+    "UCUM_CODE": "U{37Cel}/L",
+    "UNIT_LONG_NAME": "enzyme unit per liter at 37 deg Celsius"
+  },
+  {
+    "UCUM_CODE": "U/mL",
+    "UNIT_LONG_NAME": "enzyme unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "U/mL{RBCs}",
+    "UNIT_LONG_NAME": "enzyme unit per milliliter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "U/mmol{creat}",
+    "UNIT_LONG_NAME": "enzyme unit per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "U/10*6",
+    "UNIT_LONG_NAME": "enzyme unit per million"
+  },
+  {
+    "UCUM_CODE": "U/min",
+    "UNIT_LONG_NAME": "enzyme unit per minute"
+  },
+  {
+    "UCUM_CODE": "U/s",
+    "UNIT_LONG_NAME": "enzyme unit per second"
+  },
+  {
+    "UCUM_CODE": "U/10*12",
+    "UNIT_LONG_NAME": "enzyme unit per trillion"
+  },
+  {
+    "UCUM_CODE": "U/10*12{RBCs}",
+    "UNIT_LONG_NAME": "enzyme unit per trillion red blood cells"
+  },
+  {
+    "UCUM_CODE": "eq",
+    "UNIT_LONG_NAME": "equivalent"
+  },
+  {
+    "UCUM_CODE": "eq/L",
+    "UNIT_LONG_NAME": "equivalent per liter"
+  },
+  {
+    "UCUM_CODE": "eq/umol",
+    "UNIT_LONG_NAME": "equivalent per micromole"
+  },
+  {
+    "UCUM_CODE": "eq/mL",
+    "UNIT_LONG_NAME": "equivalent per milliliter"
+  },
+  {
+    "UCUM_CODE": "eq/mmol",
+    "UNIT_LONG_NAME": "equivalent per millimole"
+  },
+  {
+    "UCUM_CODE": "erg",
+    "UNIT_LONG_NAME": "erg"
+  },
+  {
+    "UCUM_CODE": "F",
+    "UNIT_LONG_NAME": "Farad"
+  },
+  {
+    "UCUM_CODE": "[ft_us]/[ft_us]",
+    "UNIT_LONG_NAME": "feet (US) per feet (US)"
+  },
+  {
+    "UCUM_CODE": "fg",
+    "UNIT_LONG_NAME": "femtogram"
+  },
+  {
+    "UCUM_CODE": "fL",
+    "UNIT_LONG_NAME": "femtoliter"
+  },
+  {
+    "UCUM_CODE": "fm",
+    "UNIT_LONG_NAME": "femtometer"
+  },
+  {
+    "UCUM_CODE": "fmol",
+    "UNIT_LONG_NAME": "femtomole"
+  },
+  {
+    "UCUM_CODE": "fmol/g",
+    "UNIT_LONG_NAME": "femtomole per gram"
+  },
+  {
+    "UCUM_CODE": "fmol/L",
+    "UNIT_LONG_NAME": "femtomole per liter"
+  },
+  {
+    "UCUM_CODE": "fmol/mg",
+    "UNIT_LONG_NAME": "femtomole per milligram"
+  },
+  {
+    "UCUM_CODE": "fmol/mg{cyt_prot}",
+    "UNIT_LONG_NAME": "femtomole per milligram of cytosol protein"
+  },
+  {
+    "UCUM_CODE": "fmol/mg{prot}",
+    "UNIT_LONG_NAME": "femtomole per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "fmol/mL",
+    "UNIT_LONG_NAME": "femtomole per milliliter"
+  },
+  {
+    "UCUM_CODE": "[foz_us]",
+    "UNIT_LONG_NAME": "fluid ounce (US)"
+  },
+  {
+    "UCUM_CODE": "{FIU}",
+    "UNIT_LONG_NAME": "fluorescent intensity unit"
+  },
+  {
+    "UCUM_CODE": "[ft_i]",
+    "UNIT_LONG_NAME": "foot (international)"
+  },
+  {
+    "UCUM_CODE": "{fraction}",
+    "UNIT_LONG_NAME": "fraction"
+  },
+  {
+    "UCUM_CODE": "[Ch]",
+    "UNIT_LONG_NAME": "French (catheter gauge)"
+  },
+  {
+    "UCUM_CODE": "{GAA_repeats}",
+    "UNIT_LONG_NAME": "GAA trinucleotide repeats"
+  },
+  {
+    "UCUM_CODE": "[gal_us]",
+    "UNIT_LONG_NAME": "gallon (US)"
+  },
+  {
+    "UCUM_CODE": "{genomes}/mL",
+    "UNIT_LONG_NAME": "genomes per milliliter"
+  },
+  {
+    "UCUM_CODE": "{Globules}/[HPF]",
+    "UNIT_LONG_NAME": "globules (drops)  per high power field"
+  },
+  {
+    "UCUM_CODE": "g",
+    "UNIT_LONG_NAME": "gram"
+  },
+  {
+    "UCUM_CODE": "g.m",
+    "UNIT_LONG_NAME": "gram meter"
+  },
+  {
+    "UCUM_CODE": "g.m/{beat}",
+    "UNIT_LONG_NAME": "gram meter per heart beat"
+  },
+  {
+    "UCUM_CODE": "g{creat}",
+    "UNIT_LONG_NAME": "gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "g{Hb}",
+    "UNIT_LONG_NAME": "gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "g{total_nit}",
+    "UNIT_LONG_NAME": "gram of total nitrogen"
+  },
+  {
+    "UCUM_CODE": "g{total_prot}",
+    "UNIT_LONG_NAME": "gram of total protein"
+  },
+  {
+    "UCUM_CODE": "g{wet_tissue}",
+    "UNIT_LONG_NAME": "gram of wet tissue"
+  },
+  {
+    "UCUM_CODE": "g/kg/(8.h)",
+    "UNIT_LONG_NAME": "gram per  kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "g/(100.g)",
+    "UNIT_LONG_NAME": "gram per 100 gram"
+  },
+  {
+    "UCUM_CODE": "g/(12.h)",
+    "UNIT_LONG_NAME": "gram per 12 hour"
+  },
+  {
+    "UCUM_CODE": "g/(24.h)",
+    "UNIT_LONG_NAME": "gram per 24 hour"
+  },
+  {
+    "UCUM_CODE": "g/(3.d)",
+    "UNIT_LONG_NAME": "gram per 3 days"
+  },
+  {
+    "UCUM_CODE": "g/(4.h)",
+    "UNIT_LONG_NAME": "gram per 4 hour"
+  },
+  {
+    "UCUM_CODE": "g/(48.h)",
+    "UNIT_LONG_NAME": "gram per 48 hour"
+  },
+  {
+    "UCUM_CODE": "g/(5.h)",
+    "UNIT_LONG_NAME": "gram per 5 hour"
+  },
+  {
+    "UCUM_CODE": "g/(6.h)",
+    "UNIT_LONG_NAME": "gram per 6 hour"
+  },
+  {
+    "UCUM_CODE": "g/(72.h)",
+    "UNIT_LONG_NAME": "gram per 72 hour"
+  },
+  {
+    "UCUM_CODE": "g/(8.h){shift}",
+    "UNIT_LONG_NAME": "gram per 8 hour shift"
+  },
+  {
+    "UCUM_CODE": "g/cm3",
+    "UNIT_LONG_NAME": "gram per cubic centimeter"
+  },
+  {
+    "UCUM_CODE": "g/d",
+    "UNIT_LONG_NAME": "gram per day"
+  },
+  {
+    "UCUM_CODE": "g/dL",
+    "UNIT_LONG_NAME": "gram per deciliter"
+  },
+  {
+    "UCUM_CODE": "g/g",
+    "UNIT_LONG_NAME": "gram per gram"
+  },
+  {
+    "UCUM_CODE": "g/g{creat}",
+    "UNIT_LONG_NAME": "gram per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "g/g{globulin}",
+    "UNIT_LONG_NAME": "gram per gram of globulin"
+  },
+  {
+    "UCUM_CODE": "g/g{tissue}",
+    "UNIT_LONG_NAME": "gram per gram of tissue"
+  },
+  {
+    "UCUM_CODE": "g/h",
+    "UNIT_LONG_NAME": "gram per hour"
+  },
+  {
+    "UCUM_CODE": "g/h/m2",
+    "UNIT_LONG_NAME": "gram per hour per square meter"
+  },
+  {
+    "UCUM_CODE": "g/kg",
+    "UNIT_LONG_NAME": "gram per kilogram"
+  },
+  {
+    "UCUM_CODE": "g/kg/(8.h){shift}",
+    "UNIT_LONG_NAME": "gram per kilogram per 8 hour shift"
+  },
+  {
+    "UCUM_CODE": "g/kg/d",
+    "UNIT_LONG_NAME": "gram per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "g/kg/h",
+    "UNIT_LONG_NAME": "gram per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "g/kg/min",
+    "UNIT_LONG_NAME": "gram per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "g/L",
+    "UNIT_LONG_NAME": "gram per liter"
+  },
+  {
+    "UCUM_CODE": "g/mg",
+    "UNIT_LONG_NAME": "gram per milligram"
+  },
+  {
+    "UCUM_CODE": "g/mL",
+    "UNIT_LONG_NAME": "gram per milliliter"
+  },
+  {
+    "UCUM_CODE": "g/mmol",
+    "UNIT_LONG_NAME": "gram per millimole"
+  },
+  {
+    "UCUM_CODE": "g/min",
+    "UNIT_LONG_NAME": "gram per minute"
+  },
+  {
+    "UCUM_CODE": "g/mol{creat}",
+    "UNIT_LONG_NAME": "gram per mole of creatinine"
+  },
+  {
+    "UCUM_CODE": "g/{specimen}",
+    "UNIT_LONG_NAME": "gram per specimen"
+  },
+  {
+    "UCUM_CODE": "g/cm2",
+    "UNIT_LONG_NAME": "gram per square centimeter"
+  },
+  {
+    "UCUM_CODE": "g/m2",
+    "UNIT_LONG_NAME": "gram per square meter"
+  },
+  {
+    "UCUM_CODE": "g/{total_output}",
+    "UNIT_LONG_NAME": "gram per total output"
+  },
+  {
+    "UCUM_CODE": "g/{total_weight}",
+    "UNIT_LONG_NAME": "gram per total weight"
+  },
+  {
+    "UCUM_CODE": "Gy",
+    "UNIT_LONG_NAME": "Gray"
+  },
+  {
+    "UCUM_CODE": "{beats}/min",
+    "UNIT_LONG_NAME": "heart beats per minute"
+  },
+  {
+    "UCUM_CODE": "H",
+    "UNIT_LONG_NAME": "Henry"
+  },
+  {
+    "UCUM_CODE": "Hz",
+    "UNIT_LONG_NAME": "Hertz"
+  },
+  {
+    "UCUM_CODE": "[HPF]",
+    "UNIT_LONG_NAME": "high power field"
+  },
+  {
+    "UCUM_CODE": "h",
+    "UNIT_LONG_NAME": "hour"
+  },
+  {
+    "UCUM_CODE": "h/d",
+    "UNIT_LONG_NAME": "hour per day"
+  },
+  {
+    "UCUM_CODE": "h/wk",
+    "UNIT_LONG_NAME": "hour per week"
+  },
+  {
+    "UCUM_CODE": "[APL'U]/mL",
+    "UNIT_LONG_NAME": "IgA anticardiolipin unit per milliliter**"
+  },
+  {
+    "UCUM_CODE": "[APL'U]",
+    "UNIT_LONG_NAME": "IgA anticardiolipin unit**"
+  },
+  {
+    "UCUM_CODE": "{APS'U}",
+    "UNIT_LONG_NAME": "IgA antiphosphatidylserine unit"
+  },
+  {
+    "UCUM_CODE": "[GPL'U]/mL",
+    "UNIT_LONG_NAME": "IgG anticardiolipin unit per milliliter**"
+  },
+  {
+    "UCUM_CODE": "[GPL'U]",
+    "UNIT_LONG_NAME": "IgG anticardiolipin unit**"
+  },
+  {
+    "UCUM_CODE": "{GPS'U}",
+    "UNIT_LONG_NAME": "IgG antiphosphatidylserine unit"
+  },
+  {
+    "UCUM_CODE": "[MPL'U]/mL",
+    "UNIT_LONG_NAME": "IgM anticardiolipin unit per milliliter**"
+  },
+  {
+    "UCUM_CODE": "[MPL'U]",
+    "UNIT_LONG_NAME": "IgM anticardiolipin unit**"
+  },
+  {
+    "UCUM_CODE": "{MPS'U}",
+    "UNIT_LONG_NAME": "IgM antiphosphatidylserine unit"
+  },
+  {
+    "UCUM_CODE": "{MPS'U}/mL",
+    "UNIT_LONG_NAME": "IgM antiphosphatidylserine unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "{ImmuneComplex'U}",
+    "UNIT_LONG_NAME": "immune complex unit"
+  },
+  {
+    "UCUM_CODE": "{ISR}",
+    "UNIT_LONG_NAME": "immune status ratio"
+  },
+  {
+    "UCUM_CODE": "{IFA_index}",
+    "UNIT_LONG_NAME": "immunofluorescence assay index"
+  },
+  {
+    "UCUM_CODE": "{IFA_titer}",
+    "UNIT_LONG_NAME": "Immunofluorescence assay titer"
+  },
+  {
+    "UCUM_CODE": "[in_i]",
+    "UNIT_LONG_NAME": "inch (international)"
+  },
+  {
+    "UCUM_CODE": "[in_i'H2O]",
+    "UNIT_LONG_NAME": "inch (international) of water"
+  },
+  {
+    "UCUM_CODE": "[in_us]",
+    "UNIT_LONG_NAME": "inches (US)"
+  },
+  {
+    "UCUM_CODE": "{index_val}",
+    "UNIT_LONG_NAME": "index value"
+  },
+  {
+    "UCUM_CODE": "{index}",
+    "UNIT_LONG_NAME": "index value"
+  },
+  {
+    "UCUM_CODE": "{HA_titer}",
+    "UNIT_LONG_NAME": "influenza hemagglutination titer"
+  },
+  {
+    "UCUM_CODE": "{INR}",
+    "UNIT_LONG_NAME": "international normalized ratio"
+  },
+  {
+    "UCUM_CODE": "[IU]",
+    "UNIT_LONG_NAME": "international unit"
+  },
+  {
+    "UCUM_CODE": "[IU]/(2.h)",
+    "UNIT_LONG_NAME": "international unit per 2 hour"
+  },
+  {
+    "UCUM_CODE": "[IU]/(24.h)",
+    "UNIT_LONG_NAME": "international unit per 24 hour"
+  },
+  {
+    "UCUM_CODE": "[IU]/10*9{RBCs}",
+    "UNIT_LONG_NAME": "international unit per billion red blood cells"
+  },
+  {
+    "UCUM_CODE": "[IU]/d",
+    "UNIT_LONG_NAME": "international unit per day"
+  },
+  {
+    "UCUM_CODE": "[IU]/dL",
+    "UNIT_LONG_NAME": "international unit per deciliter"
+  },
+  {
+    "UCUM_CODE": "[IU]/g",
+    "UNIT_LONG_NAME": "international unit per gram"
+  },
+  {
+    "UCUM_CODE": "[IU]/g{Hb}",
+    "UNIT_LONG_NAME": "international unit per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "[IU]/h",
+    "UNIT_LONG_NAME": "international unit per hour"
+  },
+  {
+    "UCUM_CODE": "[IU]/kg",
+    "UNIT_LONG_NAME": "international unit per kilogram"
+  },
+  {
+    "UCUM_CODE": "[IU]/kg/d",
+    "UNIT_LONG_NAME": "international unit per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "[IU]/L",
+    "UNIT_LONG_NAME": "international unit per liter"
+  },
+  {
+    "UCUM_CODE": "[IU]/L{37Cel}",
+    "UNIT_LONG_NAME": "international unit per liter at 37 degrees Celsius"
+  },
+  {
+    "UCUM_CODE": "[IU]/mg{creat}",
+    "UNIT_LONG_NAME": "international unit per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "[IU]/mL",
+    "UNIT_LONG_NAME": "international unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "[IU]/min",
+    "UNIT_LONG_NAME": "international unit per minute"
+  },
+  {
+    "UCUM_CODE": "J",
+    "UNIT_LONG_NAME": "joule"
+  },
+  {
+    "UCUM_CODE": "J/L",
+    "UNIT_LONG_NAME": "joule per liter"
+  },
+  {
+    "UCUM_CODE": "{JDF'U}",
+    "UNIT_LONG_NAME": "Juvenile Diabetes Foundation unit"
+  },
+  {
+    "UCUM_CODE": "{JDF'U}/L",
+    "UNIT_LONG_NAME": "Juvenile Diabetes Foundation unit per liter"
+  },
+  {
+    "UCUM_CODE": "{KCT'U}",
+    "UNIT_LONG_NAME": "kaolin clotting time"
+  },
+  {
+    "UCUM_CODE": "kat",
+    "UNIT_LONG_NAME": "katal"
+  },
+  {
+    "UCUM_CODE": "kat/kg",
+    "UNIT_LONG_NAME": "katal per kilogram"
+  },
+  {
+    "UCUM_CODE": "kat/L",
+    "UNIT_LONG_NAME": "katal per liter"
+  },
+  {
+    "UCUM_CODE": "kU",
+    "UNIT_LONG_NAME": "kilo enzyme unit"
+  },
+  {
+    "UCUM_CODE": "kU/g",
+    "UNIT_LONG_NAME": "kilo enzyme unit per gram"
+  },
+  {
+    "UCUM_CODE": "kU/L",
+    "UNIT_LONG_NAME": "kilo enzyme unit per liter"
+  },
+  {
+    "UCUM_CODE": "kU/L{class}",
+    "UNIT_LONG_NAME": "kilo enzyme unit per liter class"
+  },
+  {
+    "UCUM_CODE": "kU/mL",
+    "UNIT_LONG_NAME": "kilo enzyme unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "k[IU]/L",
+    "UNIT_LONG_NAME": "kilo international unit per liter"
+  },
+  {
+    "UCUM_CODE": "k[IU]/mL",
+    "UNIT_LONG_NAME": "kilo international unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "kcal",
+    "UNIT_LONG_NAME": "kilocalorie"
+  },
+  {
+    "UCUM_CODE": "kcal/(24.h)",
+    "UNIT_LONG_NAME": "kilocalorie per 24 hour"
+  },
+  {
+    "UCUM_CODE": "kcal/d",
+    "UNIT_LONG_NAME": "kilocalorie per day"
+  },
+  {
+    "UCUM_CODE": "kcal/h",
+    "UNIT_LONG_NAME": "kilocalorie per hour"
+  },
+  {
+    "UCUM_CODE": "kcal/kg/(24.h)",
+    "UNIT_LONG_NAME": "kilocalorie per kilogram per 24 hour"
+  },
+  {
+    "UCUM_CODE": "kcal/[oz_av]",
+    "UNIT_LONG_NAME": "kilocalorie per ounce (US & British)"
+  },
+  {
+    "UCUM_CODE": "kg",
+    "UNIT_LONG_NAME": "kilogram"
+  },
+  {
+    "UCUM_CODE": "kg.m/s",
+    "UNIT_LONG_NAME": "kilogram meter per second"
+  },
+  {
+    "UCUM_CODE": "kg/m3",
+    "UNIT_LONG_NAME": "kilogram per cubic meter"
+  },
+  {
+    "UCUM_CODE": "kg/h",
+    "UNIT_LONG_NAME": "kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "kg/L",
+    "UNIT_LONG_NAME": "kilogram per liter"
+  },
+  {
+    "UCUM_CODE": "kg/min",
+    "UNIT_LONG_NAME": "kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "kg/mol",
+    "UNIT_LONG_NAME": "kilogram per mole"
+  },
+  {
+    "UCUM_CODE": "kg/s",
+    "UNIT_LONG_NAME": "kilogram per second"
+  },
+  {
+    "UCUM_CODE": "kg/(s.m2)",
+    "UNIT_LONG_NAME": "kilogram per second per square meter"
+  },
+  {
+    "UCUM_CODE": "kg/m2",
+    "UNIT_LONG_NAME": "kilogram per square meter"
+  },
+  {
+    "UCUM_CODE": "kL",
+    "UNIT_LONG_NAME": "kiloliter"
+  },
+  {
+    "UCUM_CODE": "km",
+    "UNIT_LONG_NAME": "kilometer"
+  },
+  {
+    "UCUM_CODE": "kPa",
+    "UNIT_LONG_NAME": "kilopascal"
+  },
+  {
+    "UCUM_CODE": "ks",
+    "UNIT_LONG_NAME": "kilosecond"
+  },
+  {
+    "UCUM_CODE": "[ka'U]",
+    "UNIT_LONG_NAME": "King Armstrong unit"
+  },
+  {
+    "UCUM_CODE": "{KRONU'U}/mL",
+    "UNIT_LONG_NAME": "Kronus unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "[knk'U]",
+    "UNIT_LONG_NAME": "Kunkel unit"
+  },
+  {
+    "UCUM_CODE": "L",
+    "UNIT_LONG_NAME": "liter"
+  },
+  {
+    "UCUM_CODE": "L/(24.h)",
+    "UNIT_LONG_NAME": "liter per 24 hour"
+  },
+  {
+    "UCUM_CODE": "L/(8.h)",
+    "UNIT_LONG_NAME": "liter per 8 hour"
+  },
+  {
+    "UCUM_CODE": "L/d",
+    "UNIT_LONG_NAME": "liter per day"
+  },
+  {
+    "UCUM_CODE": "L/h",
+    "UNIT_LONG_NAME": "liter per hour"
+  },
+  {
+    "UCUM_CODE": "L/kg",
+    "UNIT_LONG_NAME": "liter per kilogram"
+  },
+  {
+    "UCUM_CODE": "L/L",
+    "UNIT_LONG_NAME": "liter per liter"
+  },
+  {
+    "UCUM_CODE": "L/min",
+    "UNIT_LONG_NAME": "liter per minute"
+  },
+  {
+    "UCUM_CODE": "L/min/m2",
+    "UNIT_LONG_NAME": "liter per minute per sqaure meter"
+  },
+  {
+    "UCUM_CODE": "L/(min.m2)",
+    "UNIT_LONG_NAME": "liter per minute per square meter"
+  },
+  {
+    "UCUM_CODE": "L/s",
+    "UNIT_LONG_NAME": "liter per second"
+  },
+  {
+    "UCUM_CODE": "L/s/s2",
+    "UNIT_LONG_NAME": "liter per second per square second"
+  },
+  {
+    "UCUM_CODE": "{Log_copies}/mL",
+    "UNIT_LONG_NAME": "log (base 10) copies per milliliter"
+  },
+  {
+    "UCUM_CODE": "{Log_IU}",
+    "UNIT_LONG_NAME": "log (base 10) international unit"
+  },
+  {
+    "UCUM_CODE": "{Log_IU}/mL",
+    "UNIT_LONG_NAME": "log (base 10) international unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "{Log}",
+    "UNIT_LONG_NAME": "log base 10"
+  },
+  {
+    "UCUM_CODE": "[LPF]",
+    "UNIT_LONG_NAME": "low power field"
+  },
+  {
+    "UCUM_CODE": "lm",
+    "UNIT_LONG_NAME": "lumen"
+  },
+  {
+    "UCUM_CODE": "lm.m2",
+    "UNIT_LONG_NAME": "lumen square meter"
+  },
+  {
+    "UCUM_CODE": "{Lyme_index_value}",
+    "UNIT_LONG_NAME": "Lyme index value"
+  },
+  {
+    "UCUM_CODE": "[mclg'U]",
+    "UNIT_LONG_NAME": "Maclagan unit"
+  },
+  {
+    "UCUM_CODE": "Ms",
+    "UNIT_LONG_NAME": "megasecond"
+  },
+  {
+    "UCUM_CODE": "[MET].min/wk",
+    "UNIT_LONG_NAME": "metabolic equivalent minute per week"
+  },
+  {
+    "UCUM_CODE": "m",
+    "UNIT_LONG_NAME": "meter"
+  },
+  {
+    "UCUM_CODE": "m/s",
+    "UNIT_LONG_NAME": "meter per second"
+  },
+  {
+    "UCUM_CODE": "m/s2",
+    "UNIT_LONG_NAME": "meter per square second"
+  },
+  {
+    "UCUM_CODE": "t",
+    "UNIT_LONG_NAME": "metric ton"
+  },
+  {
+    "UCUM_CODE": "uU/g",
+    "UNIT_LONG_NAME": "micro enzyme unit per gram"
+  },
+  {
+    "UCUM_CODE": "uU/L",
+    "UNIT_LONG_NAME": "micro enzyme unit per liter"
+  },
+  {
+    "UCUM_CODE": "uU/mL",
+    "UNIT_LONG_NAME": "micro enzyme unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "u[IU]",
+    "UNIT_LONG_NAME": "micro international unit"
+  },
+  {
+    "UCUM_CODE": "u[IU]/mL",
+    "UNIT_LONG_NAME": "micro international unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "ueq",
+    "UNIT_LONG_NAME": "microequivalent"
+  },
+  {
+    "UCUM_CODE": "ueq/L",
+    "UNIT_LONG_NAME": "microequivalent per liter"
+  },
+  {
+    "UCUM_CODE": "ueq/mL",
+    "UNIT_LONG_NAME": "microequivalent per milliliter"
+  },
+  {
+    "UCUM_CODE": "ug",
+    "UNIT_LONG_NAME": "microgram"
+  },
+  {
+    "UCUM_CODE": "ug/g{feces}",
+    "UNIT_LONG_NAME": "microgram  per gram of feces"
+  },
+  {
+    "UCUM_CODE": "ug{FEU}/mL",
+    "UNIT_LONG_NAME": "microgram fibrinogen equivalent unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "ug/(100.g)",
+    "UNIT_LONG_NAME": "microgram per 100 gram"
+  },
+  {
+    "UCUM_CODE": "ug/(24.h)",
+    "UNIT_LONG_NAME": "microgram per 24 hour"
+  },
+  {
+    "UCUM_CODE": "ug/(8.h)",
+    "UNIT_LONG_NAME": "microgram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "ug/m3",
+    "UNIT_LONG_NAME": "microgram per cubic meter"
+  },
+  {
+    "UCUM_CODE": "ug/d",
+    "UNIT_LONG_NAME": "microgram per day"
+  },
+  {
+    "UCUM_CODE": "ug/dL",
+    "UNIT_LONG_NAME": "microgram per deciliter"
+  },
+  {
+    "UCUM_CODE": "ug/dL{RBCs}",
+    "UNIT_LONG_NAME": "microgram per deciliter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "ug/g",
+    "UNIT_LONG_NAME": "microgram per gram"
+  },
+  {
+    "UCUM_CODE": "ug/g{creat}",
+    "UNIT_LONG_NAME": "microgram per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "ug/g{dry_tissue}",
+    "UNIT_LONG_NAME": "microgram per gram of dry tissue"
+  },
+  {
+    "UCUM_CODE": "ug/g{dry_wt}",
+    "UNIT_LONG_NAME": "microgram per gram of dry weight"
+  },
+  {
+    "UCUM_CODE": "ug/g{hair}",
+    "UNIT_LONG_NAME": "microgram per gram of hair"
+  },
+  {
+    "UCUM_CODE": "ug/g{Hb}",
+    "UNIT_LONG_NAME": "microgram per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "ug/g{tissue}",
+    "UNIT_LONG_NAME": "microgram per gram of tissue"
+  },
+  {
+    "UCUM_CODE": "ug/h",
+    "UNIT_LONG_NAME": "microgram per hour"
+  },
+  {
+    "UCUM_CODE": "ug/kg",
+    "UNIT_LONG_NAME": "microgram per kilogram"
+  },
+  {
+    "UCUM_CODE": "ug/kg/(8.h)",
+    "UNIT_LONG_NAME": "microgram per kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "ug/kg/d",
+    "UNIT_LONG_NAME": "microgram per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "ug/kg/h",
+    "UNIT_LONG_NAME": "microgram per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "ug/kg/min",
+    "UNIT_LONG_NAME": "microgram per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "ug/L",
+    "UNIT_LONG_NAME": "microgram per liter"
+  },
+  {
+    "UCUM_CODE": "ug/L{RBCs}",
+    "UNIT_LONG_NAME": "microgram per liter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "ug/L/(24.h)",
+    "UNIT_LONG_NAME": "microgram per liter per 24 hour"
+  },
+  {
+    "UCUM_CODE": "ug/mg",
+    "UNIT_LONG_NAME": "microgram per milligram"
+  },
+  {
+    "UCUM_CODE": "ug/mg{creat}",
+    "UNIT_LONG_NAME": "microgram per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "ug/mL",
+    "UNIT_LONG_NAME": "microgram per milliliter"
+  },
+  {
+    "UCUM_CODE": "ug/mL{class}",
+    "UNIT_LONG_NAME": "microgram per milliliter class"
+  },
+  {
+    "UCUM_CODE": "ug/mL{eqv}",
+    "UNIT_LONG_NAME": "microgram per milliliter equivalent"
+  },
+  {
+    "UCUM_CODE": "ug/mmol",
+    "UNIT_LONG_NAME": "microgram per millimole"
+  },
+  {
+    "UCUM_CODE": "ug/mmol{creat}",
+    "UNIT_LONG_NAME": "microgram per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "ug/min",
+    "UNIT_LONG_NAME": "microgram per minute"
+  },
+  {
+    "UCUM_CODE": "ug/ng",
+    "UNIT_LONG_NAME": "microgram per nanogram"
+  },
+  {
+    "UCUM_CODE": "ug/{specimen}",
+    "UNIT_LONG_NAME": "microgram per specimen"
+  },
+  {
+    "UCUM_CODE": "ug/[sft_i]",
+    "UNIT_LONG_NAME": "microgram per square foot (international)"
+  },
+  {
+    "UCUM_CODE": "ug/m2",
+    "UNIT_LONG_NAME": "microgram per square meter"
+  },
+  {
+    "UCUM_CODE": "u[IU]/L",
+    "UNIT_LONG_NAME": "microinternational unit per liter"
+  },
+  {
+    "UCUM_CODE": "ukat",
+    "UNIT_LONG_NAME": "microkatal"
+  },
+  {
+    "UCUM_CODE": "uL",
+    "UNIT_LONG_NAME": "microliter"
+  },
+  {
+    "UCUM_CODE": "uL/(2.h)",
+    "UNIT_LONG_NAME": "microliter per 2 hour"
+  },
+  {
+    "UCUM_CODE": "uL/h",
+    "UNIT_LONG_NAME": "microliter per hour"
+  },
+  {
+    "UCUM_CODE": "um",
+    "UNIT_LONG_NAME": "micrometer"
+  },
+  {
+    "UCUM_CODE": "umol",
+    "UNIT_LONG_NAME": "micromole"
+  },
+  {
+    "UCUM_CODE": "umol{BCE}/mol",
+    "UNIT_LONG_NAME": "micromole bone collagen equivalent per mole"
+  },
+  {
+    "UCUM_CODE": "umol/(2.h)",
+    "UNIT_LONG_NAME": "micromole per 2 hour"
+  },
+  {
+    "UCUM_CODE": "umol/(24.h)",
+    "UNIT_LONG_NAME": "micromole per 24 hour"
+  },
+  {
+    "UCUM_CODE": "umol/(8.h)",
+    "UNIT_LONG_NAME": "micromole per 8 hour"
+  },
+  {
+    "UCUM_CODE": "umol/d",
+    "UNIT_LONG_NAME": "micromole per day"
+  },
+  {
+    "UCUM_CODE": "umol/dL",
+    "UNIT_LONG_NAME": "micromole per deciliter"
+  },
+  {
+    "UCUM_CODE": "umol/dL{GF}",
+    "UNIT_LONG_NAME": "micromole per deciliter of glomerular filtrate"
+  },
+  {
+    "UCUM_CODE": "umol/g",
+    "UNIT_LONG_NAME": "micromole per gram"
+  },
+  {
+    "UCUM_CODE": "umol/g{creat}",
+    "UNIT_LONG_NAME": "micromole per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "umol/g{Hb}",
+    "UNIT_LONG_NAME": "micromole per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "umol/h",
+    "UNIT_LONG_NAME": "micromole per hour"
+  },
+  {
+    "UCUM_CODE": "umol/kg",
+    "UNIT_LONG_NAME": "micromole per kilogram"
+  },
+  {
+    "UCUM_CODE": "umol/kg{feces}",
+    "UNIT_LONG_NAME": "micromole per kilogram of feces"
+  },
+  {
+    "UCUM_CODE": "umol/L",
+    "UNIT_LONG_NAME": "micromole per liter"
+  },
+  {
+    "UCUM_CODE": "umol/L{RBCs}",
+    "UNIT_LONG_NAME": "micromole per liter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "umol/L/h",
+    "UNIT_LONG_NAME": "micromole per liter per hour"
+  },
+  {
+    "UCUM_CODE": "umol/umol",
+    "UNIT_LONG_NAME": "micromole per micromole"
+  },
+  {
+    "UCUM_CODE": "umol/umol{creat}",
+    "UNIT_LONG_NAME": "micromole per micromole of creatinine"
+  },
+  {
+    "UCUM_CODE": "umol/mg",
+    "UNIT_LONG_NAME": "micromole per milligram"
+  },
+  {
+    "UCUM_CODE": "umol/mg{creat}",
+    "UNIT_LONG_NAME": "micromole per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "umol/mL",
+    "UNIT_LONG_NAME": "micromole per milliliter"
+  },
+  {
+    "UCUM_CODE": "umol/mL/min",
+    "UNIT_LONG_NAME": "micromole per milliliter per minute"
+  },
+  {
+    "UCUM_CODE": "umol/mmol",
+    "UNIT_LONG_NAME": "micromole per millimole"
+  },
+  {
+    "UCUM_CODE": "umol/mmol{creat}",
+    "UNIT_LONG_NAME": "micromole per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "umol/10*6{RBC}",
+    "UNIT_LONG_NAME": "micromole per million red blood cell"
+  },
+  {
+    "UCUM_CODE": "umol/min",
+    "UNIT_LONG_NAME": "micromole per minute"
+  },
+  {
+    "UCUM_CODE": "umol/min/g",
+    "UNIT_LONG_NAME": "micromole per minute per gram"
+  },
+  {
+    "UCUM_CODE": "umol/min/g{mucosa}",
+    "UNIT_LONG_NAME": "micromole per minute per gram of mucosa"
+  },
+  {
+    "UCUM_CODE": "umol/min/g{prot}",
+    "UNIT_LONG_NAME": "micromole per minute per gram of protein"
+  },
+  {
+    "UCUM_CODE": "umol/min/L",
+    "UNIT_LONG_NAME": "micromole per minute per liter"
+  },
+  {
+    "UCUM_CODE": "umol/mol",
+    "UNIT_LONG_NAME": "micromole per mole"
+  },
+  {
+    "UCUM_CODE": "umol/mol{creat}",
+    "UNIT_LONG_NAME": "micromole per mole of creatinine"
+  },
+  {
+    "UCUM_CODE": "umol/mol{Hb}",
+    "UNIT_LONG_NAME": "micromole per mole of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "um/s",
+    "UNIT_LONG_NAME": "microns per second"
+  },
+  {
+    "UCUM_CODE": "uOhm",
+    "UNIT_LONG_NAME": "microOhm"
+  },
+  {
+    "UCUM_CODE": "us",
+    "UNIT_LONG_NAME": "microsecond"
+  },
+  {
+    "UCUM_CODE": "uV",
+    "UNIT_LONG_NAME": "microvolt"
+  },
+  {
+    "UCUM_CODE": "[mi_i]",
+    "UNIT_LONG_NAME": "mile (international)"
+  },
+  {
+    "UCUM_CODE": "mU/g",
+    "UNIT_LONG_NAME": "milli  enzyme unit per gram"
+  },
+  {
+    "UCUM_CODE": "mU/mL",
+    "UNIT_LONG_NAME": "milli  enzyme unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "mU/mL/min",
+    "UNIT_LONG_NAME": "milli  enzyme unit per milliliter per minute"
+  },
+  {
+    "UCUM_CODE": "mU/mmol{creat}",
+    "UNIT_LONG_NAME": "milli  enzyme unit per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "mU/mmol{RBCs}",
+    "UNIT_LONG_NAME": "milli  enzyme unit per millimole of red blood cells"
+  },
+  {
+    "UCUM_CODE": "m[IU]/mL",
+    "UNIT_LONG_NAME": "milli  international unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "mU/g{Hb}",
+    "UNIT_LONG_NAME": "milli enzyme unit per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "mU/g{prot}",
+    "UNIT_LONG_NAME": "milli enzyme unit per gram of protein"
+  },
+  {
+    "UCUM_CODE": "mU/L",
+    "UNIT_LONG_NAME": "milli enzyme unit per liter"
+  },
+  {
+    "UCUM_CODE": "mU/mg",
+    "UNIT_LONG_NAME": "milli enzyme unit per milligram"
+  },
+  {
+    "UCUM_CODE": "mU/mg{creat}",
+    "UNIT_LONG_NAME": "milli enzyme unit per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "m[IU]/L",
+    "UNIT_LONG_NAME": "milli international unit per liter"
+  },
+  {
+    "UCUM_CODE": "mA",
+    "UNIT_LONG_NAME": "milliampere"
+  },
+  {
+    "UCUM_CODE": "mbar",
+    "UNIT_LONG_NAME": "millibar"
+  },
+  {
+    "UCUM_CODE": "mbar/L/s",
+    "UNIT_LONG_NAME": "millibar per liter per second"
+  },
+  {
+    "UCUM_CODE": "mbar.s/L",
+    "UNIT_LONG_NAME": "millibar second per liter"
+  },
+  {
+    "UCUM_CODE": "meq",
+    "UNIT_LONG_NAME": "milliequivalent"
+  },
+  {
+    "UCUM_CODE": "meq/(2.h)",
+    "UNIT_LONG_NAME": "milliequivalent per 2 hour"
+  },
+  {
+    "UCUM_CODE": "meq/(24.h)",
+    "UNIT_LONG_NAME": "milliequivalent per 24 hour"
+  },
+  {
+    "UCUM_CODE": "meq/(8.h)",
+    "UNIT_LONG_NAME": "milliequivalent per 8 hour"
+  },
+  {
+    "UCUM_CODE": "meq/d",
+    "UNIT_LONG_NAME": "milliequivalent per day"
+  },
+  {
+    "UCUM_CODE": "meq/dL",
+    "UNIT_LONG_NAME": "milliequivalent per deciliter"
+  },
+  {
+    "UCUM_CODE": "meq/g",
+    "UNIT_LONG_NAME": "milliequivalent per gram"
+  },
+  {
+    "UCUM_CODE": "meq/g{creat}",
+    "UNIT_LONG_NAME": "milliequivalent per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "meq/h",
+    "UNIT_LONG_NAME": "milliequivalent per hour"
+  },
+  {
+    "UCUM_CODE": "meq/kg",
+    "UNIT_LONG_NAME": "milliequivalent per kilogram"
+  },
+  {
+    "UCUM_CODE": "meq/kg/h",
+    "UNIT_LONG_NAME": "milliequivalent per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "meq/L",
+    "UNIT_LONG_NAME": "milliequivalent per liter"
+  },
+  {
+    "UCUM_CODE": "meq/mL",
+    "UNIT_LONG_NAME": "milliequivalent per milliliter"
+  },
+  {
+    "UCUM_CODE": "meq/min",
+    "UNIT_LONG_NAME": "milliequivalent per minute"
+  },
+  {
+    "UCUM_CODE": "meq/{specimen}",
+    "UNIT_LONG_NAME": "milliequivalent per specimen"
+  },
+  {
+    "UCUM_CODE": "meq/m2",
+    "UNIT_LONG_NAME": "milliequivalent per square meter"
+  },
+  {
+    "UCUM_CODE": "meq/{total_volume}",
+    "UNIT_LONG_NAME": "milliequivalent per total volume"
+  },
+  {
+    "UCUM_CODE": "mg",
+    "UNIT_LONG_NAME": "milligram"
+  },
+  {
+    "UCUM_CODE": "mg{FEU}/L",
+    "UNIT_LONG_NAME": "milligram fibrinogen equivalent unit per liter"
+  },
+  {
+    "UCUM_CODE": "mg/(10.h)",
+    "UNIT_LONG_NAME": "milligram per 10 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(12.h)",
+    "UNIT_LONG_NAME": "milligram per 12 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(2.h)",
+    "UNIT_LONG_NAME": "milligram per 2 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(24.h)",
+    "UNIT_LONG_NAME": "milligram per 24 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(6.h)",
+    "UNIT_LONG_NAME": "milligram per 6 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(72.h)",
+    "UNIT_LONG_NAME": "milligram per 72 hour"
+  },
+  {
+    "UCUM_CODE": "mg/(8.h)",
+    "UNIT_LONG_NAME": "milligram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mg/{collection}",
+    "UNIT_LONG_NAME": "milligram per collection"
+  },
+  {
+    "UCUM_CODE": "mg/m3",
+    "UNIT_LONG_NAME": "milligram per cubic meter"
+  },
+  {
+    "UCUM_CODE": "mg/d",
+    "UNIT_LONG_NAME": "milligram per day"
+  },
+  {
+    "UCUM_CODE": "mg/d/{1.73_m2}",
+    "UNIT_LONG_NAME": "milligram per day per 1.73 square meter"
+  },
+  {
+    "UCUM_CODE": "mg/dL",
+    "UNIT_LONG_NAME": "milligram per deciliter"
+  },
+  {
+    "UCUM_CODE": "mg/dL{RBCs}",
+    "UNIT_LONG_NAME": "milligram per deciliter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "mg/g",
+    "UNIT_LONG_NAME": "milligram per gram"
+  },
+  {
+    "UCUM_CODE": "mg/g{creat}",
+    "UNIT_LONG_NAME": "milligram per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "mg/g{dry_tissue}",
+    "UNIT_LONG_NAME": "milligram per gram of dry tissue"
+  },
+  {
+    "UCUM_CODE": "mg/g{feces}",
+    "UNIT_LONG_NAME": "milligram per gram of feces"
+  },
+  {
+    "UCUM_CODE": "mg/g{tissue}",
+    "UNIT_LONG_NAME": "milligram per gram of tissue"
+  },
+  {
+    "UCUM_CODE": "mg/g{wet_tissue}",
+    "UNIT_LONG_NAME": "milligram per gram of wet tissue"
+  },
+  {
+    "UCUM_CODE": "mg/h",
+    "UNIT_LONG_NAME": "milligram per hour"
+  },
+  {
+    "UCUM_CODE": "mg/kg",
+    "UNIT_LONG_NAME": "milligram per kilogram"
+  },
+  {
+    "UCUM_CODE": "mg/kg/(8.h)",
+    "UNIT_LONG_NAME": "milligram per kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mg/kg/d",
+    "UNIT_LONG_NAME": "milligram per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "mg/kg/h",
+    "UNIT_LONG_NAME": "milligram per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "mg/kg/min",
+    "UNIT_LONG_NAME": "milligram per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "mg/L",
+    "UNIT_LONG_NAME": "milligram per liter"
+  },
+  {
+    "UCUM_CODE": "mg/L{RBCs}",
+    "UNIT_LONG_NAME": "milligram per liter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "mg/mg",
+    "UNIT_LONG_NAME": "milligram per milligram"
+  },
+  {
+    "UCUM_CODE": "mg/mg{creat}",
+    "UNIT_LONG_NAME": "milligram per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "mg/mL",
+    "UNIT_LONG_NAME": "milligram per milliliter"
+  },
+  {
+    "UCUM_CODE": "mg/mmol",
+    "UNIT_LONG_NAME": "milligram per millimole"
+  },
+  {
+    "UCUM_CODE": "mg/mmol{creat}",
+    "UNIT_LONG_NAME": "milligram per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "mg/min",
+    "UNIT_LONG_NAME": "milligram per minute"
+  },
+  {
+    "UCUM_CODE": "mg/{specimen}",
+    "UNIT_LONG_NAME": "milligram per specimen"
+  },
+  {
+    "UCUM_CODE": "mg/m2",
+    "UNIT_LONG_NAME": "milligram per square meter"
+  },
+  {
+    "UCUM_CODE": "mg/{total_output}",
+    "UNIT_LONG_NAME": "milligram per total output"
+  },
+  {
+    "UCUM_CODE": "mg/{total_volume}",
+    "UNIT_LONG_NAME": "milligram per total volume"
+  },
+  {
+    "UCUM_CODE": "mg/wk",
+    "UNIT_LONG_NAME": "milligram per week"
+  },
+  {
+    "UCUM_CODE": "mL",
+    "UNIT_LONG_NAME": "milliliter"
+  },
+  {
+    "UCUM_CODE": "mL{fetal_RBCs}",
+    "UNIT_LONG_NAME": "milliliter of fetal red blood cells"
+  },
+  {
+    "UCUM_CODE": "mL/(10.h)",
+    "UNIT_LONG_NAME": "milliliter per 10 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(12.h)",
+    "UNIT_LONG_NAME": "milliliter per 12 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(2.h)",
+    "UNIT_LONG_NAME": "milliliter per 2 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(24.h)",
+    "UNIT_LONG_NAME": "milliliter per 24 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(4.h)",
+    "UNIT_LONG_NAME": "milliliter per 4 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(5.h)",
+    "UNIT_LONG_NAME": "milliliter per 5 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(6.h)",
+    "UNIT_LONG_NAME": "milliliter per 6 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(72.h)",
+    "UNIT_LONG_NAME": "milliliter per 72 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(8.h)",
+    "UNIT_LONG_NAME": "milliliter per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mL/(8.h)/kg",
+    "UNIT_LONG_NAME": "milliliter per 8 hour per kilogram"
+  },
+  {
+    "UCUM_CODE": "mL/cm[H2O]",
+    "UNIT_LONG_NAME": "milliliter per centimeter of water"
+  },
+  {
+    "UCUM_CODE": "mL/d",
+    "UNIT_LONG_NAME": "milliliter per day"
+  },
+  {
+    "UCUM_CODE": "mL/dL",
+    "UNIT_LONG_NAME": "milliliter per deciliter"
+  },
+  {
+    "UCUM_CODE": "mL/{beat}",
+    "UNIT_LONG_NAME": "milliliter per heart beat"
+  },
+  {
+    "UCUM_CODE": "mL/{beat}/m2",
+    "UNIT_LONG_NAME": "milliliter per heart beat per  square meter"
+  },
+  {
+    "UCUM_CODE": "mL/h",
+    "UNIT_LONG_NAME": "milliliter per hour"
+  },
+  {
+    "UCUM_CODE": "mL/kg",
+    "UNIT_LONG_NAME": "milliliter per kilogram"
+  },
+  {
+    "UCUM_CODE": "mL/kg/(8.h)",
+    "UNIT_LONG_NAME": "milliliter per kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mL/kg/d",
+    "UNIT_LONG_NAME": "milliliter per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "mL/kg/h",
+    "UNIT_LONG_NAME": "milliliter per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "mL/kg/min",
+    "UNIT_LONG_NAME": "milliliter per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "mL/mbar",
+    "UNIT_LONG_NAME": "milliliter per millibar"
+  },
+  {
+    "UCUM_CODE": "mL/mm",
+    "UNIT_LONG_NAME": "milliliter per millimeter"
+  },
+  {
+    "UCUM_CODE": "mL/min",
+    "UNIT_LONG_NAME": "milliliter per minute"
+  },
+  {
+    "UCUM_CODE": "mL/min/{1.73_m2}",
+    "UNIT_LONG_NAME": "milliliter per minute per 1.73 square meter"
+  },
+  {
+    "UCUM_CODE": "mL/min/m2",
+    "UNIT_LONG_NAME": "milliliter per minute per square meter"
+  },
+  {
+    "UCUM_CODE": "mL/s",
+    "UNIT_LONG_NAME": "milliliter per second"
+  },
+  {
+    "UCUM_CODE": "mL/[sin_i]",
+    "UNIT_LONG_NAME": "milliliter per square inch (international)"
+  },
+  {
+    "UCUM_CODE": "mL/m2",
+    "UNIT_LONG_NAME": "milliliter per square meter"
+  },
+  {
+    "UCUM_CODE": "mm",
+    "UNIT_LONG_NAME": "millimeter"
+  },
+  {
+    "UCUM_CODE": "mm[Hg]",
+    "UNIT_LONG_NAME": "millimeter of mercury"
+  },
+  {
+    "UCUM_CODE": "mm[H2O]",
+    "UNIT_LONG_NAME": "millimeter of water"
+  },
+  {
+    "UCUM_CODE": "mm/h",
+    "UNIT_LONG_NAME": "millimeter per hour"
+  },
+  {
+    "UCUM_CODE": "mm/min",
+    "UNIT_LONG_NAME": "millimeter per minute"
+  },
+  {
+    "UCUM_CODE": "mmol",
+    "UNIT_LONG_NAME": "millimole"
+  },
+  {
+    "UCUM_CODE": "mmol/(12.h)",
+    "UNIT_LONG_NAME": "millimole per 12 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/(2.h)",
+    "UNIT_LONG_NAME": "millimole per 2 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/(24.h)",
+    "UNIT_LONG_NAME": "millimole per 24 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/(5.h)",
+    "UNIT_LONG_NAME": "millimole per 5 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/(6.h)",
+    "UNIT_LONG_NAME": "millimole per 6 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/(8.h)",
+    "UNIT_LONG_NAME": "millimole per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/d",
+    "UNIT_LONG_NAME": "millimole per day"
+  },
+  {
+    "UCUM_CODE": "mmol/dL",
+    "UNIT_LONG_NAME": "millimole per deciliter"
+  },
+  {
+    "UCUM_CODE": "mmol/{ejaculate}",
+    "UNIT_LONG_NAME": "millimole per ejaculate"
+  },
+  {
+    "UCUM_CODE": "mmol/g",
+    "UNIT_LONG_NAME": "millimole per gram"
+  },
+  {
+    "UCUM_CODE": "mmol/g{creat}",
+    "UNIT_LONG_NAME": "millimole per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "mmol/h",
+    "UNIT_LONG_NAME": "millimole per hour"
+  },
+  {
+    "UCUM_CODE": "mmol/h/mg{Hb}",
+    "UNIT_LONG_NAME": "millimole per hour per milligram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "mmol/h/mg{prot}",
+    "UNIT_LONG_NAME": "millimole per hour per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "mmol/kg",
+    "UNIT_LONG_NAME": "millimole per kilogram"
+  },
+  {
+    "UCUM_CODE": "mmol/kg/(8.h)",
+    "UNIT_LONG_NAME": "millimole per kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "mmol/kg/d",
+    "UNIT_LONG_NAME": "millimole per kilogram per day"
+  },
+  {
+    "UCUM_CODE": "mmol/kg/h",
+    "UNIT_LONG_NAME": "millimole per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "mmol/kg/min",
+    "UNIT_LONG_NAME": "millimole per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "mmol/L",
+    "UNIT_LONG_NAME": "millimole per liter"
+  },
+  {
+    "UCUM_CODE": "mmol/L{RBCs}",
+    "UNIT_LONG_NAME": "millimole per liter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "mmol/mmol",
+    "UNIT_LONG_NAME": "millimole per millimole"
+  },
+  {
+    "UCUM_CODE": "mmol/mmol{urea}",
+    "UNIT_LONG_NAME": "millimole per millimole of urea"
+  },
+  {
+    "UCUM_CODE": "mmol/mmol{creat}",
+    "UNIT_LONG_NAME": "millimole per millmole of creatinine"
+  },
+  {
+    "UCUM_CODE": "mmol/min",
+    "UNIT_LONG_NAME": "millimole per minute"
+  },
+  {
+    "UCUM_CODE": "mmol/mol",
+    "UNIT_LONG_NAME": "millimole per mole"
+  },
+  {
+    "UCUM_CODE": "mmol/mol{creat}",
+    "UNIT_LONG_NAME": "millimole per mole of creatinine"
+  },
+  {
+    "UCUM_CODE": "mmol/s/L",
+    "UNIT_LONG_NAME": "millimole per second per liter"
+  },
+  {
+    "UCUM_CODE": "mmol/{specimen}",
+    "UNIT_LONG_NAME": "millimole per specimen"
+  },
+  {
+    "UCUM_CODE": "mmol/m2",
+    "UNIT_LONG_NAME": "millimole per square meter"
+  },
+  {
+    "UCUM_CODE": "mmol/{total_vol}",
+    "UNIT_LONG_NAME": "millimole per total volume"
+  },
+  {
+    "UCUM_CODE": "10*6",
+    "UNIT_LONG_NAME": "million"
+  },
+  {
+    "UCUM_CODE": "10*6.[CFU]/L",
+    "UNIT_LONG_NAME": "million colony forming unit per liter"
+  },
+  {
+    "UCUM_CODE": "10*6.[IU]",
+    "UNIT_LONG_NAME": "million international unit"
+  },
+  {
+    "UCUM_CODE": "10*6/(24.h)",
+    "UNIT_LONG_NAME": "million per 24 hour"
+  },
+  {
+    "UCUM_CODE": "10*6/kg",
+    "UNIT_LONG_NAME": "million per kilogram"
+  },
+  {
+    "UCUM_CODE": "10*6/L",
+    "UNIT_LONG_NAME": "million per liter"
+  },
+  {
+    "UCUM_CODE": "10*6/uL",
+    "UNIT_LONG_NAME": "million per microliter"
+  },
+  {
+    "UCUM_CODE": "10*6/mL",
+    "UNIT_LONG_NAME": "million per milliliter"
+  },
+  {
+    "UCUM_CODE": "mosm",
+    "UNIT_LONG_NAME": "milliosmole"
+  },
+  {
+    "UCUM_CODE": "mosm/kg",
+    "UNIT_LONG_NAME": "milliosmole per kilogram"
+  },
+  {
+    "UCUM_CODE": "mosm/L",
+    "UNIT_LONG_NAME": "milliosmole per liter"
+  },
+  {
+    "UCUM_CODE": "mPa",
+    "UNIT_LONG_NAME": "millipascal"
+  },
+  {
+    "UCUM_CODE": "mPa.s",
+    "UNIT_LONG_NAME": "millipascal second"
+  },
+  {
+    "UCUM_CODE": "ms",
+    "UNIT_LONG_NAME": "millisecond"
+  },
+  {
+    "UCUM_CODE": "mV",
+    "UNIT_LONG_NAME": "millivolt"
+  },
+  {
+    "UCUM_CODE": "mV/s",
+    "UNIT_LONG_NAME": "millivolt per second"
+  },
+  {
+    "UCUM_CODE": "{minidrop}/min",
+    "UNIT_LONG_NAME": "minidrop per minute"
+  },
+  {
+    "UCUM_CODE": "{minidrop}/s",
+    "UNIT_LONG_NAME": "minidrop per second"
+  },
+  {
+    "UCUM_CODE": "min",
+    "UNIT_LONG_NAME": "minute"
+  },
+  {
+    "UCUM_CODE": "min/d",
+    "UNIT_LONG_NAME": "minute per day"
+  },
+  {
+    "UCUM_CODE": "min/wk",
+    "UNIT_LONG_NAME": "minute per week"
+  },
+  {
+    "UCUM_CODE": "mol",
+    "UNIT_LONG_NAME": "mole"
+  },
+  {
+    "UCUM_CODE": "mol/m3",
+    "UNIT_LONG_NAME": "mole per cubic meter"
+  },
+  {
+    "UCUM_CODE": "mol/kg",
+    "UNIT_LONG_NAME": "mole per kilogram"
+  },
+  {
+    "UCUM_CODE": "mol/kg/s",
+    "UNIT_LONG_NAME": "mole per kilogram per second"
+  },
+  {
+    "UCUM_CODE": "mol/L",
+    "UNIT_LONG_NAME": "mole per liter"
+  },
+  {
+    "UCUM_CODE": "mol/mL",
+    "UNIT_LONG_NAME": "mole per milliliter"
+  },
+  {
+    "UCUM_CODE": "mol/mol",
+    "UNIT_LONG_NAME": "mole per mole"
+  },
+  {
+    "UCUM_CODE": "mol/s",
+    "UNIT_LONG_NAME": "mole per second"
+  },
+  {
+    "UCUM_CODE": "{#}/{platelet}",
+    "UNIT_LONG_NAME": "molecule per platelet"
+  },
+  {
+    "UCUM_CODE": "mo",
+    "UNIT_LONG_NAME": "month"
+  },
+  {
+    "UCUM_CODE": "{mm/dd/yyyy}",
+    "UNIT_LONG_NAME": "month-day-year"
+  },
+  {
+    "UCUM_CODE": "{M.o.M}",
+    "UNIT_LONG_NAME": "multiple of the median"
+  },
+  {
+    "UCUM_CODE": "{mutation}",
+    "UNIT_LONG_NAME": "mutation"
+  },
+  {
+    "UCUM_CODE": "nU/mL",
+    "UNIT_LONG_NAME": "nanoenzyme unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "nU/{RBC}",
+    "UNIT_LONG_NAME": "nanoenzyme unit per red blood cell"
+  },
+  {
+    "UCUM_CODE": "ng",
+    "UNIT_LONG_NAME": "nanogram"
+  },
+  {
+    "UCUM_CODE": "ng{FEU}/mL",
+    "UNIT_LONG_NAME": "nanogram fibrinogen equivalent unit per milliliter"
+  },
+  {
+    "UCUM_CODE": "ng/(24.h)",
+    "UNIT_LONG_NAME": "nanogram per 24 hour"
+  },
+  {
+    "UCUM_CODE": "ng/(8.h)",
+    "UNIT_LONG_NAME": "nanogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "ng/d",
+    "UNIT_LONG_NAME": "nanogram per day"
+  },
+  {
+    "UCUM_CODE": "ng/dL",
+    "UNIT_LONG_NAME": "nanogram per deciliter"
+  },
+  {
+    "UCUM_CODE": "ng/U",
+    "UNIT_LONG_NAME": "nanogram per enzyme unit"
+  },
+  {
+    "UCUM_CODE": "ng/g",
+    "UNIT_LONG_NAME": "nanogram per gram"
+  },
+  {
+    "UCUM_CODE": "ng/g{creat}",
+    "UNIT_LONG_NAME": "nanogram per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "ng/h",
+    "UNIT_LONG_NAME": "nanogram per hour"
+  },
+  {
+    "UCUM_CODE": "ng/kg",
+    "UNIT_LONG_NAME": "nanogram per kilogram"
+  },
+  {
+    "UCUM_CODE": "ng/kg/(8.h)",
+    "UNIT_LONG_NAME": "nanogram per kilogram per 8 hour"
+  },
+  {
+    "UCUM_CODE": "ng/kg/h",
+    "UNIT_LONG_NAME": "nanogram per kilogram per hour"
+  },
+  {
+    "UCUM_CODE": "ng/kg/min",
+    "UNIT_LONG_NAME": "nanogram per kilogram per minute"
+  },
+  {
+    "UCUM_CODE": "ng/L",
+    "UNIT_LONG_NAME": "nanogram per liter"
+  },
+  {
+    "UCUM_CODE": "ng/mg",
+    "UNIT_LONG_NAME": "nanogram per milligram"
+  },
+  {
+    "UCUM_CODE": "ng/mg{creat}",
+    "UNIT_LONG_NAME": "nanogram per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "ng/mg{prot}",
+    "UNIT_LONG_NAME": "nanogram per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "ng/mg/h",
+    "UNIT_LONG_NAME": "nanogram per milligram per hour"
+  },
+  {
+    "UCUM_CODE": "ng/mL{RBCs}",
+    "UNIT_LONG_NAME": "nanogram per milliliter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "ng/mL/h",
+    "UNIT_LONG_NAME": "nanogram per milliliter per hour"
+  },
+  {
+    "UCUM_CODE": "ng/10*6",
+    "UNIT_LONG_NAME": "nanogram per million"
+  },
+  {
+    "UCUM_CODE": "ng/10*6{RBCs}",
+    "UNIT_LONG_NAME": "nanogram per million red blood cells"
+  },
+  {
+    "UCUM_CODE": "ng/mL",
+    "UNIT_LONG_NAME": "nanogram per millliiter"
+  },
+  {
+    "UCUM_CODE": "ng/min",
+    "UNIT_LONG_NAME": "nanogram per minute"
+  },
+  {
+    "UCUM_CODE": "ng/s",
+    "UNIT_LONG_NAME": "nanogram per second"
+  },
+  {
+    "UCUM_CODE": "ng/m2",
+    "UNIT_LONG_NAME": "nanogram per square meter"
+  },
+  {
+    "UCUM_CODE": "nkat",
+    "UNIT_LONG_NAME": "nanokatal"
+  },
+  {
+    "UCUM_CODE": "nL",
+    "UNIT_LONG_NAME": "nanoliter"
+  },
+  {
+    "UCUM_CODE": "nm",
+    "UNIT_LONG_NAME": "nanometer"
+  },
+  {
+    "UCUM_CODE": "nm/s/L",
+    "UNIT_LONG_NAME": "nanometer per second per liter"
+  },
+  {
+    "UCUM_CODE": "nmol",
+    "UNIT_LONG_NAME": "nanomole"
+  },
+  {
+    "UCUM_CODE": "nmol{BCE}",
+    "UNIT_LONG_NAME": "nanomole bone collagen equivalent"
+  },
+  {
+    "UCUM_CODE": "nmol{BCE}/L",
+    "UNIT_LONG_NAME": "nanomole bone collagen equivalent per liter"
+  },
+  {
+    "UCUM_CODE": "nmol/mmol{creat}",
+    "UNIT_LONG_NAME": "nanomole bone collagen equivalent per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/mg{prot}",
+    "UNIT_LONG_NAME": "nanomole of 1/2 cystine per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "nmol{ATP}",
+    "UNIT_LONG_NAME": "nanomole of ATP"
+  },
+  {
+    "UCUM_CODE": "nmol/(24.h)",
+    "UNIT_LONG_NAME": "nanomole per 24 hour"
+  },
+  {
+    "UCUM_CODE": "nmol/d",
+    "UNIT_LONG_NAME": "nanomole per day"
+  },
+  {
+    "UCUM_CODE": "nmol/dL",
+    "UNIT_LONG_NAME": "nanomole per deciliter"
+  },
+  {
+    "UCUM_CODE": "nmol/dL{GF}",
+    "UNIT_LONG_NAME": "nanomole per deciliter of glomerular filtrate"
+  },
+  {
+    "UCUM_CODE": "nmol/g",
+    "UNIT_LONG_NAME": "nanomole per gram"
+  },
+  {
+    "UCUM_CODE": "nmol/g{creat}",
+    "UNIT_LONG_NAME": "nanomole per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/g{dry_wt}",
+    "UNIT_LONG_NAME": "nanomole per gram of dry weight"
+  },
+  {
+    "UCUM_CODE": "nmol/h/L",
+    "UNIT_LONG_NAME": "nanomole per hour per liter"
+  },
+  {
+    "UCUM_CODE": "nmol/h/mg{prot}",
+    "UNIT_LONG_NAME": "nanomole per hour per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "nmol/h/mL",
+    "UNIT_LONG_NAME": "nanomole per hour per milliliter"
+  },
+  {
+    "UCUM_CODE": "nmol/L",
+    "UNIT_LONG_NAME": "nanomole per liter"
+  },
+  {
+    "UCUM_CODE": "nmol/L{RBCs}",
+    "UNIT_LONG_NAME": "nanomole per liter of red blood cells"
+  },
+  {
+    "UCUM_CODE": "nmol/L/mmol{creat}",
+    "UNIT_LONG_NAME": "nanomole per liter per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/m/mg{prot}",
+    "UNIT_LONG_NAME": "nanomole per meter per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "nmol/umol{creat}",
+    "UNIT_LONG_NAME": "nanomole per micromole  of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/mg",
+    "UNIT_LONG_NAME": "nanomole per milligram"
+  },
+  {
+    "UCUM_CODE": "nmol/mg{creat}",
+    "UNIT_LONG_NAME": "nanomole per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/mg{prot}",
+    "UNIT_LONG_NAME": "nanomole per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "nmol/mg{prot}/h",
+    "UNIT_LONG_NAME": "nanomole per milligram of protein per hour"
+  },
+  {
+    "UCUM_CODE": "nmol/mg/h",
+    "UNIT_LONG_NAME": "nanomole per milligram per hour"
+  },
+  {
+    "UCUM_CODE": "nmol/mL",
+    "UNIT_LONG_NAME": "nanomole per milliliter"
+  },
+  {
+    "UCUM_CODE": "nmol/mL/h",
+    "UNIT_LONG_NAME": "nanomole per milliliter per hour"
+  },
+  {
+    "UCUM_CODE": "nmol/mL/min",
+    "UNIT_LONG_NAME": "nanomole per milliliter per minute"
+  },
+  {
+    "UCUM_CODE": "nmol/mmol",
+    "UNIT_LONG_NAME": "nanomole per millimole"
+  },
+  {
+    "UCUM_CODE": "nmol/mmol{creat}",
+    "UNIT_LONG_NAME": "nanomole per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/min",
+    "UNIT_LONG_NAME": "nanomole per minute"
+  },
+  {
+    "UCUM_CODE": "nmol/min/mg{Hb}",
+    "UNIT_LONG_NAME": "nanomole per minute per milligram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "nmol/min/mg{prot}",
+    "UNIT_LONG_NAME": "nanomole per minute per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "nmol/min/mg{protein}",
+    "UNIT_LONG_NAME": "nanomole per minute per milligram protein"
+  },
+  {
+    "UCUM_CODE": "nmol/min/mL",
+    "UNIT_LONG_NAME": "nanomole per minute per milliliter"
+  },
+  {
+    "UCUM_CODE": "nmol/min/10*6{cells}",
+    "UNIT_LONG_NAME": "nanomole per minute per million cells"
+  },
+  {
+    "UCUM_CODE": "nmol/mol",
+    "UNIT_LONG_NAME": "nanomole per mole"
+  },
+  {
+    "UCUM_CODE": "nmol/mol{creat}",
+    "UNIT_LONG_NAME": "nanomole per mole creatinine"
+  },
+  {
+    "UCUM_CODE": "nmol/nmol",
+    "UNIT_LONG_NAME": "nanomole per nanomole"
+  },
+  {
+    "UCUM_CODE": "nmol/s",
+    "UNIT_LONG_NAME": "nanomole per second"
+  },
+  {
+    "UCUM_CODE": "nmol/s/L",
+    "UNIT_LONG_NAME": "nanomole per second per liter"
+  },
+  {
+    "UCUM_CODE": "ns",
+    "UNIT_LONG_NAME": "nanosecond"
+  },
+  {
+    "UCUM_CODE": "N",
+    "UNIT_LONG_NAME": "Newton"
+  },
+  {
+    "UCUM_CODE": "N.cm",
+    "UNIT_LONG_NAME": "Newton centimeter"
+  },
+  {
+    "UCUM_CODE": "N.s",
+    "UNIT_LONG_NAME": "Newton second"
+  },
+  {
+    "UCUM_CODE": "{#}",
+    "UNIT_LONG_NAME": "number"
+  },
+  {
+    "UCUM_CODE": "{#}/a",
+    "UNIT_LONG_NAME": "number per annum (year)"
+  },
+  {
+    "UCUM_CODE": "{#}/d",
+    "UNIT_LONG_NAME": "number per day"
+  },
+  {
+    "UCUM_CODE": "{#}/g",
+    "UNIT_LONG_NAME": "number per gram"
+  },
+  {
+    "UCUM_CODE": "{#}/[HPF]",
+    "UNIT_LONG_NAME": "number per high power field"
+  },
+  {
+    "UCUM_CODE": "{#}/L",
+    "UNIT_LONG_NAME": "number per liter"
+  },
+  {
+    "UCUM_CODE": "{#}/[LPF]",
+    "UNIT_LONG_NAME": "number per low power field"
+  },
+  {
+    "UCUM_CODE": "{#}/uL",
+    "UNIT_LONG_NAME": "number per microliter"
+  },
+  {
+    "UCUM_CODE": "{#}/mL",
+    "UNIT_LONG_NAME": "number per milliliter"
+  },
+  {
+    "UCUM_CODE": "{#}/min",
+    "UNIT_LONG_NAME": "number per minute"
+  },
+  {
+    "UCUM_CODE": "{#}/wk",
+    "UNIT_LONG_NAME": "number per week"
+  },
+  {
+    "UCUM_CODE": "Ohm",
+    "UNIT_LONG_NAME": "Ohm"
+  },
+  {
+    "UCUM_CODE": "Ohm.m",
+    "UNIT_LONG_NAME": "Ohm meter"
+  },
+  {
+    "UCUM_CODE": "10*5",
+    "UNIT_LONG_NAME": "one hundred thousand"
+  },
+  {
+    "UCUM_CODE": "{OD_unit}",
+    "UNIT_LONG_NAME": "optical density unit"
+  },
+  {
+    "UCUM_CODE": "osm",
+    "UNIT_LONG_NAME": "osmole"
+  },
+  {
+    "UCUM_CODE": "osm/kg",
+    "UNIT_LONG_NAME": "osmole per kilogram"
+  },
+  {
+    "UCUM_CODE": "osm/L",
+    "UNIT_LONG_NAME": "osmole per liter"
+  },
+  {
+    "UCUM_CODE": "[oz_av]",
+    "UNIT_LONG_NAME": "ounce (US and British)"
+  },
+  {
+    "UCUM_CODE": "{Pan_Bio'U}",
+    "UNIT_LONG_NAME": "panbio unit"
+  },
+  {
+    "UCUM_CODE": "[ppb]",
+    "UNIT_LONG_NAME": "part per billion"
+  },
+  {
+    "UCUM_CODE": "[ppm]",
+    "UNIT_LONG_NAME": "part per million"
+  },
+  {
+    "UCUM_CODE": "[ppm]{v/v}",
+    "UNIT_LONG_NAME": "part per million in volume per volume"
+  },
+  {
+    "UCUM_CODE": "[ppth]",
+    "UNIT_LONG_NAME": "part per thousand"
+  },
+  {
+    "UCUM_CODE": "[pptr]",
+    "UNIT_LONG_NAME": "part per trillion"
+  },
+  {
+    "UCUM_CODE": "Pa",
+    "UNIT_LONG_NAME": "Pascal"
+  },
+  {
+    "UCUM_CODE": "/10*10",
+    "UNIT_LONG_NAME": "per 10 billion"
+  },
+  {
+    "UCUM_CODE": "/10*4{RBCs}",
+    "UNIT_LONG_NAME": "per 10 thousand red blood cells"
+  },
+  {
+    "UCUM_CODE": "/100",
+    "UNIT_LONG_NAME": "per 100"
+  },
+  {
+    "UCUM_CODE": "/100{cells}",
+    "UNIT_LONG_NAME": "per 100 cells"
+  },
+  {
+    "UCUM_CODE": "/100{neutrophils}",
+    "UNIT_LONG_NAME": "per 100 neutrophils"
+  },
+  {
+    "UCUM_CODE": "/100{spermatozoa}",
+    "UNIT_LONG_NAME": "per 100 spermatozoa"
+  },
+  {
+    "UCUM_CODE": "/100{WBCs}",
+    "UNIT_LONG_NAME": "per 100 white blood cells"
+  },
+  {
+    "UCUM_CODE": "/[arb'U]",
+    "UNIT_LONG_NAME": "per arbitrary unit"
+  },
+  {
+    "UCUM_CODE": "/10*9",
+    "UNIT_LONG_NAME": "per billion"
+  },
+  {
+    "UCUM_CODE": "/cm[H2O]",
+    "UNIT_LONG_NAME": "per centimeter of water"
+  },
+  {
+    "UCUM_CODE": "/m3",
+    "UNIT_LONG_NAME": "per cubic meter"
+  },
+  {
+    "UCUM_CODE": "/d",
+    "UNIT_LONG_NAME": "per day"
+  },
+  {
+    "UCUM_CODE": "/dL",
+    "UNIT_LONG_NAME": "per deciliter"
+  },
+  {
+    "UCUM_CODE": "/{entity}",
+    "UNIT_LONG_NAME": "per entity"
+  },
+  {
+    "UCUM_CODE": "/U",
+    "UNIT_LONG_NAME": "per enzyme unit"
+  },
+  {
+    "UCUM_CODE": "/g",
+    "UNIT_LONG_NAME": "per gram"
+  },
+  {
+    "UCUM_CODE": "/g{creat}",
+    "UNIT_LONG_NAME": "per gram of creatinine"
+  },
+  {
+    "UCUM_CODE": "/g{Hb}",
+    "UNIT_LONG_NAME": "per gram of hemoglobin"
+  },
+  {
+    "UCUM_CODE": "/g{tot_nit}",
+    "UNIT_LONG_NAME": "per gram of total nitrogen"
+  },
+  {
+    "UCUM_CODE": "/g{tot_prot}",
+    "UNIT_LONG_NAME": "per gram of total protein"
+  },
+  {
+    "UCUM_CODE": "/g{wet_tis}",
+    "UNIT_LONG_NAME": "per gram of wet tissue"
+  },
+  {
+    "UCUM_CODE": "/[HPF]",
+    "UNIT_LONG_NAME": "per high power field"
+  },
+  {
+    "UCUM_CODE": "/h",
+    "UNIT_LONG_NAME": "per hour"
+  },
+  {
+    "UCUM_CODE": "/[IU]",
+    "UNIT_LONG_NAME": "per international unit"
+  },
+  {
+    "UCUM_CODE": "/kg",
+    "UNIT_LONG_NAME": "per kilogram"
+  },
+  {
+    "UCUM_CODE": "/kg{body_wt}",
+    "UNIT_LONG_NAME": "per kilogram of body weight"
+  },
+  {
+    "UCUM_CODE": "/L",
+    "UNIT_LONG_NAME": "per liter"
+  },
+  {
+    "UCUM_CODE": "/[LPF]",
+    "UNIT_LONG_NAME": "per low power field"
+  },
+  {
+    "UCUM_CODE": "/uL",
+    "UNIT_LONG_NAME": "per microliter"
+  },
+  {
+    "UCUM_CODE": "/mg",
+    "UNIT_LONG_NAME": "per milligram"
+  },
+  {
+    "UCUM_CODE": "/mL",
+    "UNIT_LONG_NAME": "per milliliter"
+  },
+  {
+    "UCUM_CODE": "/mm",
+    "UNIT_LONG_NAME": "per millimeter"
+  },
+  {
+    "UCUM_CODE": "/mmol{creat}",
+    "UNIT_LONG_NAME": "per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "/10*6",
+    "UNIT_LONG_NAME": "per million"
+  },
+  {
+    "UCUM_CODE": "/min",
+    "UNIT_LONG_NAME": "per minute"
+  },
+  {
+    "UCUM_CODE": "/mo",
+    "UNIT_LONG_NAME": "per month"
+  },
+  {
+    "UCUM_CODE": "/{OIF}",
+    "UNIT_LONG_NAME": "per oil immersion field"
+  },
+  {
+    "UCUM_CODE": "/s",
+    "UNIT_LONG_NAME": "per second"
+  },
+  {
+    "UCUM_CODE": "/m2",
+    "UNIT_LONG_NAME": "per square meter"
+  },
+  {
+    "UCUM_CODE": "/10*3",
+    "UNIT_LONG_NAME": "per thousand"
+  },
+  {
+    "UCUM_CODE": "/10*3{RBCs}",
+    "UNIT_LONG_NAME": "per thousand red blood cells"
+  },
+  {
+    "UCUM_CODE": "/10*12",
+    "UNIT_LONG_NAME": "per trillion"
+  },
+  {
+    "UCUM_CODE": "/10*12{RBCs}",
+    "UNIT_LONG_NAME": "per trillion red blood cells"
+  },
+  {
+    "UCUM_CODE": "/(12.h)",
+    "UNIT_LONG_NAME": "per twelve hour"
+  },
+  {
+    "UCUM_CODE": "/wk",
+    "UNIT_LONG_NAME": "per week"
+  },
+  {
+    "UCUM_CODE": "/a",
+    "UNIT_LONG_NAME": "per year"
+  },
+  {
+    "UCUM_CODE": "%",
+    "UNIT_LONG_NAME": "percent"
+  },
+  {
+    "UCUM_CODE": "%{loss_AChR}",
+    "UNIT_LONG_NAME": "percent  loss of acetylcholine receptor"
+  },
+  {
+    "UCUM_CODE": "%{penetration}",
+    "UNIT_LONG_NAME": "percent  penetration"
+  },
+  {
+    "UCUM_CODE": "%{abnormal}",
+    "UNIT_LONG_NAME": "percent abnormal"
+  },
+  {
+    "UCUM_CODE": "%{activity}",
+    "UNIT_LONG_NAME": "percent activity"
+  },
+  {
+    "UCUM_CODE": "%{aggregation}",
+    "UNIT_LONG_NAME": "percent aggregation"
+  },
+  {
+    "UCUM_CODE": "%{at_60_min}",
+    "UNIT_LONG_NAME": "percent at 60 minute"
+  },
+  {
+    "UCUM_CODE": "%{basal_activity}",
+    "UNIT_LONG_NAME": "percent basal activity"
+  },
+  {
+    "UCUM_CODE": "%{binding}",
+    "UNIT_LONG_NAME": "percent binding"
+  },
+  {
+    "UCUM_CODE": "%{blockade}",
+    "UNIT_LONG_NAME": "percent blockade"
+  },
+  {
+    "UCUM_CODE": "%{blocked}",
+    "UNIT_LONG_NAME": "percent blocked"
+  },
+  {
+    "UCUM_CODE": "%{bound}",
+    "UNIT_LONG_NAME": "percent bound"
+  },
+  {
+    "UCUM_CODE": "%{breakdown}",
+    "UNIT_LONG_NAME": "percent breakdown"
+  },
+  {
+    "UCUM_CODE": "%{vol}",
+    "UNIT_LONG_NAME": "percent by volume"
+  },
+  {
+    "UCUM_CODE": "%{deficient}",
+    "UNIT_LONG_NAME": "percent deficient"
+  },
+  {
+    "UCUM_CODE": "%{dose}",
+    "UNIT_LONG_NAME": "percent dose"
+  },
+  {
+    "UCUM_CODE": "%{excretion}",
+    "UNIT_LONG_NAME": "percent excretion"
+  },
+  {
+    "UCUM_CODE": "%{Hb}",
+    "UNIT_LONG_NAME": "percent hemoglobin"
+  },
+  {
+    "UCUM_CODE": "%{hemolysis}",
+    "UNIT_LONG_NAME": "percent hemolysis"
+  },
+  {
+    "UCUM_CODE": "%{index}",
+    "UNIT_LONG_NAME": "percent index"
+  },
+  {
+    "UCUM_CODE": "%{inhibition}",
+    "UNIT_LONG_NAME": "percent inhibition"
+  },
+  {
+    "UCUM_CODE": "%{loss}",
+    "UNIT_LONG_NAME": "percent loss"
+  },
+  {
+    "UCUM_CODE": "%{lysis}",
+    "UNIT_LONG_NAME": "percent lysis"
+  },
+  {
+    "UCUM_CODE": "%{normal}",
+    "UNIT_LONG_NAME": "percent normal"
+  },
+  {
+    "UCUM_CODE": "%{pooled_plasma}",
+    "UNIT_LONG_NAME": "percent normal pooled plasma"
+  },
+  {
+    "UCUM_CODE": "%{bacteria}",
+    "UNIT_LONG_NAME": "percent of bacteria"
+  },
+  {
+    "UCUM_CODE": "%{baseline}",
+    "UNIT_LONG_NAME": "percent of baseline"
+  },
+  {
+    "UCUM_CODE": "%{cells}",
+    "UNIT_LONG_NAME": "percent of cells"
+  },
+  {
+    "UCUM_CODE": "%{RBCs}",
+    "UNIT_LONG_NAME": "percent of red blood cells"
+  },
+  {
+    "UCUM_CODE": "%{WBCs}",
+    "UNIT_LONG_NAME": "percent of white blood cells"
+  },
+  {
+    "UCUM_CODE": "%{positive}",
+    "UNIT_LONG_NAME": "percent positive"
+  },
+  {
+    "UCUM_CODE": "%{reactive}",
+    "UNIT_LONG_NAME": "percent reactive"
+  },
+  {
+    "UCUM_CODE": "%{recovery}",
+    "UNIT_LONG_NAME": "percent recovery"
+  },
+  {
+    "UCUM_CODE": "%{reference}",
+    "UNIT_LONG_NAME": "percent reference"
+  },
+  {
+    "UCUM_CODE": "%{residual}",
+    "UNIT_LONG_NAME": "percent residual"
+  },
+  {
+    "UCUM_CODE": "%{response}",
+    "UNIT_LONG_NAME": "percent response"
+  },
+  {
+    "UCUM_CODE": "%{saturation}",
+    "UNIT_LONG_NAME": "percent saturation"
+  },
+  {
+    "UCUM_CODE": "%{total}",
+    "UNIT_LONG_NAME": "percent total"
+  },
+  {
+    "UCUM_CODE": "%{uptake}",
+    "UNIT_LONG_NAME": "percent uptake"
+  },
+  {
+    "UCUM_CODE": "%{viable}",
+    "UNIT_LONG_NAME": "percent viable"
+  },
+  {
+    "UCUM_CODE": "{percentile}",
+    "UNIT_LONG_NAME": "percentile"
+  },
+  {
+    "UCUM_CODE": "[pH]",
+    "UNIT_LONG_NAME": "pH"
+  },
+  {
+    "UCUM_CODE": "{phenotype}",
+    "UNIT_LONG_NAME": "phenotype"
+  },
+  {
+    "UCUM_CODE": "pA",
+    "UNIT_LONG_NAME": "picoampere"
+  },
+  {
+    "UCUM_CODE": "pg",
+    "UNIT_LONG_NAME": "picogram"
+  },
+  {
+    "UCUM_CODE": "pg/{cell}",
+    "UNIT_LONG_NAME": "picogram per cell"
+  },
+  {
+    "UCUM_CODE": "pg/dL",
+    "UNIT_LONG_NAME": "picogram per deciliter"
+  },
+  {
+    "UCUM_CODE": "pg/L",
+    "UNIT_LONG_NAME": "picogram per liter"
+  },
+  {
+    "UCUM_CODE": "pg/mg",
+    "UNIT_LONG_NAME": "picogram per milligram"
+  },
+  {
+    "UCUM_CODE": "pg/mg{creat}",
+    "UNIT_LONG_NAME": "picogram per milligram of creatinine"
+  },
+  {
+    "UCUM_CODE": "pg/mL",
+    "UNIT_LONG_NAME": "picogram per milliliter"
+  },
+  {
+    "UCUM_CODE": "pg/mL{sLT}",
+    "UNIT_LONG_NAME": "picogram per milliliter sulfidoleukotrienes"
+  },
+  {
+    "UCUM_CODE": "pg/mm",
+    "UNIT_LONG_NAME": "picogram per millimeter"
+  },
+  {
+    "UCUM_CODE": "pg/{RBC}",
+    "UNIT_LONG_NAME": "picogram per red blood cell"
+  },
+  {
+    "UCUM_CODE": "pkat",
+    "UNIT_LONG_NAME": "picokatal"
+  },
+  {
+    "UCUM_CODE": "pL",
+    "UNIT_LONG_NAME": "picoliter"
+  },
+  {
+    "UCUM_CODE": "pm",
+    "UNIT_LONG_NAME": "picometer"
+  },
+  {
+    "UCUM_CODE": "pmol",
+    "UNIT_LONG_NAME": "picomole"
+  },
+  {
+    "UCUM_CODE": "pmol/(24.h)",
+    "UNIT_LONG_NAME": "picomole per 24 hour"
+  },
+  {
+    "UCUM_CODE": "pmol/d",
+    "UNIT_LONG_NAME": "picomole per day"
+  },
+  {
+    "UCUM_CODE": "pmol/dL",
+    "UNIT_LONG_NAME": "picomole per deciliter"
+  },
+  {
+    "UCUM_CODE": "pmol/g",
+    "UNIT_LONG_NAME": "picomole per gram"
+  },
+  {
+    "UCUM_CODE": "pmol/h/mg{prot}",
+    "UNIT_LONG_NAME": "picomole per hour per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "pmol/H/mg{protein}",
+    "UNIT_LONG_NAME": "picomole per hour per milligram protein"
+  },
+  {
+    "UCUM_CODE": "pmol/h/mL",
+    "UNIT_LONG_NAME": "picomole per hour per milliliter"
+  },
+  {
+    "UCUM_CODE": "pmol/L",
+    "UNIT_LONG_NAME": "picomole per liter"
+  },
+  {
+    "UCUM_CODE": "pmol/umol",
+    "UNIT_LONG_NAME": "picomole per micromole"
+  },
+  {
+    "UCUM_CODE": "pmol/umol{creat}",
+    "UNIT_LONG_NAME": "picomole per micromole of creatinine"
+  },
+  {
+    "UCUM_CODE": "pmol/mg{prot}",
+    "UNIT_LONG_NAME": "picomole per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "pmol/mL",
+    "UNIT_LONG_NAME": "picomole per milliliter"
+  },
+  {
+    "UCUM_CODE": "pmol/mmol{creat}",
+    "UNIT_LONG_NAME": "picomole per millimole of creatinine"
+  },
+  {
+    "UCUM_CODE": "pmol/min",
+    "UNIT_LONG_NAME": "picomole per minute"
+  },
+  {
+    "UCUM_CODE": "pmol/min/mg{prot}",
+    "UNIT_LONG_NAME": "picomole per minute per milligram of protein"
+  },
+  {
+    "UCUM_CODE": "pmol/{RBC}",
+    "UNIT_LONG_NAME": "picomole per red blood cell"
+  },
+  {
+    "UCUM_CODE": "ps",
+    "UNIT_LONG_NAME": "picosecond"
+  },
+  {
+    "UCUM_CODE": "pT",
+    "UNIT_LONG_NAME": "picotesla"
+  },
+  {
+    "UCUM_CODE": "[pt_us]",
+    "UNIT_LONG_NAME": "pint (US)"
+  },
+  {
+    "UCUM_CODE": "[lb_av]",
+    "UNIT_LONG_NAME": "pound (US and British)"
+  },
+  {
+    "UCUM_CODE": "[psi]",
+    "UNIT_LONG_NAME": "pound per square inch"
+  },
+  {
+    "UCUM_CODE": "[qt_us]",
+    "UNIT_LONG_NAME": "quart (US)"
+  },
+  {
+    "UCUM_CODE": "{ratio}",
+    "UNIT_LONG_NAME": "ratio"
+  },
+  {
+    "UCUM_CODE": "{RBC}/uL",
+    "UNIT_LONG_NAME": "red blood cell per microliter"
+  },
+  {
+    "UCUM_CODE": "%{relative}",
+    "UNIT_LONG_NAME": "relative percent"
+  },
+  {
+    "UCUM_CODE": "{rel_saturation}",
+    "UNIT_LONG_NAME": "relative saturation"
+  },
+  {
+    "UCUM_CODE": "{risk}",
+    "UNIT_LONG_NAME": "risk"
+  },
+  {
+    "UCUM_CODE": "{Rubella_virus}",
+    "UNIT_LONG_NAME": "rubella virus"
+  },
+  {
+    "UCUM_CODE": "{saturation}",
+    "UNIT_LONG_NAME": "saturation"
+  },
+  {
+    "UCUM_CODE": "{score}",
+    "UNIT_LONG_NAME": "score"
+  },
+  {
+    "UCUM_CODE": "s",
+    "UNIT_LONG_NAME": "second"
+  },
+  {
+    "UCUM_CODE": "s/{control}",
+    "UNIT_LONG_NAME": "second per control"
+  },
+  {
+    "UCUM_CODE": "{shift}",
+    "UNIT_LONG_NAME": "shift"
+  },
+  {
+    "UCUM_CODE": "S",
+    "UNIT_LONG_NAME": "Siemens"
+  },
+  {
+    "UCUM_CODE": "Sv",
+    "UNIT_LONG_NAME": "Sievert"
+  },
+  {
+    "UCUM_CODE": "{s_co_ratio}",
+    "UNIT_LONG_NAME": "signal to cutoff ratio"
+  },
+  {
+    "UCUM_CODE": "{spermatozoa}/mL",
+    "UNIT_LONG_NAME": "spermatozoa per milliliter"
+  },
+  {
+    "UCUM_CODE": "cm2",
+    "UNIT_LONG_NAME": "square centimeter"
+  },
+  {
+    "UCUM_CODE": "cm2/s",
+    "UNIT_LONG_NAME": "square centimeter per second"
+  },
+  {
+    "UCUM_CODE": "dm2/s2",
+    "UNIT_LONG_NAME": "square decimeter per square second"
+  },
+  {
+    "UCUM_CODE": "[sft_i]",
+    "UNIT_LONG_NAME": "square foot (international)"
+  },
+  {
+    "UCUM_CODE": "[sin_i]",
+    "UNIT_LONG_NAME": "square inch (international)"
+  },
+  {
+    "UCUM_CODE": "m2",
+    "UNIT_LONG_NAME": "square meter"
+  },
+  {
+    "UCUM_CODE": "m2/s",
+    "UNIT_LONG_NAME": "square meter per second"
+  },
+  {
+    "UCUM_CODE": "mm2",
+    "UNIT_LONG_NAME": "square millimeter"
+  },
+  {
+    "UCUM_CODE": "[syd_i]",
+    "UNIT_LONG_NAME": "square yard (international)"
+  },
+  {
+    "UCUM_CODE": "{STDV}",
+    "UNIT_LONG_NAME": "standard deviation"
+  },
+  {
+    "UCUM_CODE": "{Tscore}",
+    "UNIT_LONG_NAME": "t score"
+  },
+  {
+    "UCUM_CODE": "[tbs_us]",
+    "UNIT_LONG_NAME": "tablespoon (US)"
+  },
+  {
+    "UCUM_CODE": "[tsp_us]",
+    "UNIT_LONG_NAME": "teaspoon (US)"
+  },
+  {
+    "UCUM_CODE": "T",
+    "UNIT_LONG_NAME": "Tesla"
+  },
+  {
+    "UCUM_CODE": "10*3",
+    "UNIT_LONG_NAME": "thousand"
+  },
+  {
+    "UCUM_CODE": "10*3{copies}/mL",
+    "UNIT_LONG_NAME": "thousand copies per milliliter"
+  },
+  {
+    "UCUM_CODE": "10*3/L",
+    "UNIT_LONG_NAME": "thousand per liter"
+  },
+  {
+    "UCUM_CODE": "10*3/uL",
+    "UNIT_LONG_NAME": "thousand per microliter"
+  },
+  {
+    "UCUM_CODE": "10*3/mL",
+    "UNIT_LONG_NAME": "thousand per milliliter"
+  },
+  {
+    "UCUM_CODE": "10*3{RBCs}",
+    "UNIT_LONG_NAME": "thousand red blood cells"
+  },
+  {
+    "UCUM_CODE": "{TSI_index}",
+    "UNIT_LONG_NAME": "thyroid-stimulating immunoglobulin index"
+  },
+  {
+    "UCUM_CODE": "{TmStp}",
+    "UNIT_LONG_NAME": "time stamp"
+  },
+  {
+    "UCUM_CODE": "{titer}",
+    "UNIT_LONG_NAME": "titer"
+  },
+  {
+    "UCUM_CODE": "[todd'U]",
+    "UNIT_LONG_NAME": "Todd unit"
+  },
+  {
+    "UCUM_CODE": "Torr",
+    "UNIT_LONG_NAME": "Torr"
+  },
+  {
+    "UCUM_CODE": "10*12/L",
+    "UNIT_LONG_NAME": "trillion per liter"
+  },
+  {
+    "UCUM_CODE": "[oz_tr]",
+    "UNIT_LONG_NAME": "Troy ounce"
+  },
+  {
+    "UCUM_CODE": "[tb'U]",
+    "UNIT_LONG_NAME": "tuberculin unit"
+  },
+  {
+    "UCUM_CODE": "V",
+    "UNIT_LONG_NAME": "volt"
+  },
+  {
+    "UCUM_CODE": "Wb",
+    "UNIT_LONG_NAME": "Weber"
+  },
+  {
+    "UCUM_CODE": "wk",
+    "UNIT_LONG_NAME": "week"
+  },
+  {
+    "UCUM_CODE": "{WBCs}",
+    "UNIT_LONG_NAME": "white blood cells"
+  },
+  {
+    "UCUM_CODE": "[yd_i]",
+    "UNIT_LONG_NAME": "yard (international)"
+  },
+  {
+    "UCUM_CODE": "a",
+    "UNIT_LONG_NAME": "year"
+  },
+  {
+    "UCUM_CODE": "{yyyy}",
+    "UNIT_LONG_NAME": "year"
+  },
+  {
+    "UCUM_CODE": "{Zscore}",
+    "UNIT_LONG_NAME": "z score"
+  }
+]

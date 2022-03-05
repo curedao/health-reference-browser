@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Biomarker",
+  "type": "object",
+  "description": "A measurable indicator of a biological state or condition of the human body.",
+  "references": [
+    {
+      "description": "Biological age is a concept used loosely and with little objectivity to describe a shortfall between a population cohort average life expectancy and the perceived life expectancy of an individual of the same age.",
+      "url": "https://en.wikipedia.org/wiki/Biomarker"
+    }
+  ],
+  "definitions": {
+    "unit_value": {
+      "$ref": "unit-value-1.x.json"
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name_long": {
+      "type": "string"
+    }
+  },
+
+  "required": ["id", "name_long"]
+}

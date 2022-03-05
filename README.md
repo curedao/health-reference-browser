@@ -1,6 +1,8 @@
 # Health Reference Online Browser
 Web frontend application to browse all health data references and interact from online
 
+View the running application here: [search.curedao.org](https://search.curedao.org/)
+
 Features:
 - Open access
 - List of all reference entries
@@ -11,7 +13,7 @@ Features:
 
 Compare it to the LOINC Reference database and their search portal: https://loinc.org/search/
 
-![LOINC search](LOINC_search.png)
+![Search](docs/assets/curedao_search.png)
 
 
 ## Architecture
@@ -30,11 +32,7 @@ This project was bootstrapped with
 
 ## Setup development environment (FRONTEND)
 
-In the project directory navigate into frontend and start local environment with npm:
-
-```shell
-cd frontend
-```
+Navigate into your project directory and start local environment with npm:
 
 ```shell
 npm install
