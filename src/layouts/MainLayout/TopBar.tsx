@@ -82,8 +82,9 @@ const TopBar: FC<TopBarProps> = ({ className, ...rest }) => {
         <Link
           className={classes.link}
           color="textSecondary"
-          component={RouterLink}
-          to={businessLogic.url_doc_website}
+          //component={RouterLink}
+          href={businessLogic.url_doc_website}
+          target="_blank"
           underline="none"
           variant="body2"
         >
@@ -97,7 +98,9 @@ const TopBar: FC<TopBarProps> = ({ className, ...rest }) => {
           color="secondary"
           variant="contained"
           size="small"
-          onClick={handleOnClick}
+          //onClick={handleOnClick}
+          href={businessLogic.url_main_website}
+          //target="_blank"
         >
           Home
         </Button>
