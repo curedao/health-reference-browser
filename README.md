@@ -1,7 +1,7 @@
 # Health Reference Online Browser
 Web frontend application to browse all health data references and interact from online
 
-View the running application here: [Health data reference browser](https://search.curedao.org/)
+View the running application here: [search.curedao.org](https://search.curedao.org/)
 
 Features:
 - Open access
@@ -13,7 +13,7 @@ Features:
 
 Compare it to the LOINC Reference database and their search portal: https://loinc.org/search/
 
-![LOINC search](LOINC_search.png)
+![Search](public/static/curedao_search.png)
 
 
 ## Architecture
