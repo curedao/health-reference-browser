@@ -1,0 +1,92 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Intervention",
+    "type": "object",
+    "description": "The method to improve health or wellbeeing, like therapies, drugs, supplements, actions.",
+    "references": [
+        {
+            "description": "The act of intervening, interfering or interceding with the intent of modifying the outcome. In medicine, an intervention is usually undertaken to help treat or cure a condition.",
+            "url": "https://www.medicinenet.com/intervention/definition.htm"
+        }
+    ],
+
+    "properties": {
+        "id": {
+            "description": "a unique identifier within all interventions, in case of drugs same as rxnorm if applicable",
+            "type": "string"
+        },
+        "category": {
+            "description": "the category of the intervention",
+            "type": "string",
+            "enum": [
+                "medication",
+                "supplement",
+                "therapy",
+                "diet",
+                "physical_activity",
+                "cosmetic_application",
+                "lifestyle_routine",
+                "combined_interventions",
+                "other"
+            ]
+        },
+        "rxnorm_code": {
+            "description": "a unique identifier for drugs within the rx norm",
+            "type": "string"
+        },
+        "name_short": {
+            "description": "the short (display) name of the intervention",
+            "type": "string"
+        },
+        "name_long": {
+            "description": "the full (display) name of the intervention",
+            "type": "string"
+        },
+        "application_route": {
+            "description": "The way, the intervention intrudes, contacts or is applied to the biological system",
+            "type": "string",
+            "enum": [
+                "oral",
+                "..."
+            ]
+        },
+        "description": {
+            "description": "the detailed name, the medical name, and short explanation of the intervention, does not need to contain application instruction, because it is a separate property",
+            "type": "string"
+        },
+        "instruction": {
+            "description": "short protocol as step by step description how to apply the intervention and dosis",
+            "type": "string"
+        },
+        "requirements": {
+            "description": "a list of displayed names of required actions or states before the intervention",
+            "type": "array",
+            "items": {
+                "description": "the full display name of an requirement (e.g. timing) or code of another intervention",
+                "type": "string"
+              }
+        },
+        "risks": {
+            "description": "a list of displayed names of potential side effects of the intervention",
+            "type": "array",
+            "items": {
+                "description": "the full display name of an requirement (e.g. timing) or code of another intervention",
+                "type": "string"
+              }
+        },
+        "references": {
+            "description": "More information, medical definition, wikipedia, relevant ressources",
+            "type": "array",
+            "items": {
+                "description": "URL links to more information",
+                "type": "string"
+              }
+        }
+    },
+
+    "required": [
+        "id",
+        "name_long",
+        "references"
+    ]
+}

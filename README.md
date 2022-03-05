@@ -1,6 +1,8 @@
 # Health Reference Online Browser
 Web frontend application to browse all health data references and interact from online
 
+View the running application here: [Health data reference browser](https://search.curedao.org/)
+
 Features:
 - Open access
 - List of all reference entries
@@ -30,11 +32,7 @@ This project was bootstrapped with
 
 ## Setup development environment (FRONTEND)
 
-In the project directory navigate into frontend and start local environment with npm:
-
-```shell
-cd frontend
-```
+Navigate into your project directory and start local environment with npm:
 
 ```shell
 npm install

@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Addison\u2019s disease",
+    "path": "addisons-disease"
+  },
+  {
+    "name": "ADHD/ADD",
+    "path": "adhd-add"
+  },
+  {
+    "name": "Adrenal fatigue",
+    "path": "adrenal-fatigue"
+  },
+  {
+    "name": "AGE (Advanced Glycation End)",
+    "path": "age-advanced-glycation-end"
+  },
+  {
+    "name": "Age Related Mental Decline",
+    "path": "age-related-mental-decline"
+  },
+  {
+    "name": "AIDS",
+    "path": "aids"
+  },
+  {
+    "name": "Alcoholism",
+    "path": "alcoholism"
+  },
+  {
+    "name": "Alertness",
+    "path": "alertness"
+  },
+  {
+    "name": "Allergies",
+    "path": "allergies"
+  },
+  {
+    "name": "ALS (amyotrophic lateral sclerosis)",
+    "path": "als-amyotrophic-lateral-sclerosis"
+  },
+  {
+    "name": "Alzheimer\u2019s disease",
+    "path": "alzheimers-disease"
+  },
+  {
+    "name": "AMPK",
+    "path": "ampk"
+  },
+  {
+    "name": "Anabolic",
+    "path": "anabolic"
+  },
+  {
+    "name": "Angina",
+    "path": "angina"
+  },
+  {
+    "name": "Animal Use",
+    "path": "animal-use"
+  },
+  {
+    "name": "Antiaging",
+    "path": "antiaging"
+  },
+  {
+    "name": "Antiglycation (Cross Linking)",
+    "path": "antiglycation-cross-linking"
+  },
+  {
+    "name": "Antioxidants",
+    "path": "antioxidants"
+  },
+  {
+    "name": "Antiparasitic",
+    "path": "antiparasitic"
+  },
+  {
+    "name": "Antiviral",
+    "path": "antiviral"
+  },
+  {
+    "name": "Anxiety",
+    "path": "anxiety"
+  },
+  {
+    "name": "ARMD (age related macular degeneration)",
+    "path": "armd-age-related-macular-degeneration"
+  },
+  {
+    "name": "Arteries",
+    "path": "arteries"
+  },
+  {
+    "name": "Arthritis",
+    "path": "arthritis"
+  },
+  {
+    "name": "Asthma",
+    "path": "asthma"
+  },
+  {
+    "name": "Autism",
+    "path": "autism"
+  },
+  {
+    "name": "Back Problems",
+    "path": "back-problems"
+  },
+  {
+    "name": "Bell's Palsy",
+    "path": "bells-palsy"
+  },
+  {
+    "name": "Bladder",
+    "path": "bladder"
+  },
+  {
+    "name": "Blood Disorders",
+    "path": "blood-disorders"
+  },
+  {
+    "name": "Blood lipids",
+    "path": "blood-lipids"
+  },
+  {
+    "name": "Blood pressure",
+    "path": "blood-pressure"
+  },
+  {
+    "name": "Bone Problems",
+    "path": "bone-problems"
+  },
+  {
+    "name": "Breathing",
+    "path": "breathing"
+  },
+  {
+    "name": "Calorie Restriction Mimetics (CRM)",
+    "path": "calorie-restriction-mimetics-crm"
+  },
+  {
+    "name": "Cancer",
+    "path": "cancer"
+  },
+  {
+    "name": "Cardiovascular",
+    "path": "cardiovascular"
+  },
+  {
+    "name": "Cataplexy",
+    "path": "cataplexy"
+  },
+  {
+    "name": "Cataract",
+    "path": "cataract"
+  },
+  {
+    "name": "Cellulite",
+    "path": "cellulite"
+  },
+  {
+    "name": "Central Nervous System (CNS)",
+    "path": "central-nervous-system-cns"
+  },
+  {
+    "name": "Chelation",
+    "path": "chelation"
+  },
+  {
+    "name": "Cholesterol",
+    "path": "cholesterol"
+  },
+  {
+    "name": "Chronic fatigue syndrome",
+    "path": "chronic-fatigue-syndrome"
+  },
+  {
+    "name": "Circadian rhythms",
+    "path": "circadian-rhythms"
+  },
+  {
+    "name": "Cognitive",
+    "path": "cognitive"
+  },
+  {
+    "name": "Collagen",
+    "path": "collagen"
+  },
+  {
+    "name": "Compulisve Disorder Treatment",
+    "path": "compulsive-disorder-treatment"
+  },
+  {
+    "name": "Concentration",
+    "path": "concentration"
+  },
+  {
+    "name": "Cortisol Alteration",
+    "path": "cortisol-alteration"
+  },
+  {
+    "name": "Creativity",
+    "path": "creativity"
+  },
+  {
+    "name": "Crohn\u2019s disease",
+    "path": "crohns-disease"
+  },
+  {
+    "name": "Deep Vein Thrombosis",
+    "path": "deep-vein-thrombosis"
+  },
+  {
+    "name": "Dementia",
+    "path": "dementia"
+  },
+  {
+    "name": "Dental",
+    "path": "dental"
+  },
+  {
+    "name": "Depression",
+    "path": "depression"
+  },
+  {
+    "name": "Detox",
+    "path": "detox"
+  },
+  {
+    "name": "DHT Alternation (dihydrotestosterone)",
+    "path": "dht-alternation-dihydrotestosterone"
+  },
+  {
+    "name": "Diabetes",
+    "path": "diabetes"
+  },
+  {
+    "name": "Diabetes Insipidus (frequent urination)",
+    "path": "diabetes-insipidus-frequent-urination"
+  },
+  {
+    "name": "Dieting",
+    "path": "dieting"
+  },
+  {
+    "name": "Digestive Issues",
+    "path": "digestive-issues"
+  },
+  {
+    "name": "DNA Support",
+    "path": "dna-support"
+  },
+  {
+    "name": "Down\u2019s syndrome",
+    "path": "downs-syndrome"
+  },
+  {
+    "name": "Dry Eyes",
+    "path": "dry-eyes"
+  },
+  {
+    "name": "Ears",
+    "path": "ears"
+  },
+  {
+    "name": "Energy Improvement",
+    "path": "energy-improvement"
+  },
+  {
+    "name": "Enzymes",
+    "path": "enzymes"
+  },
+  {
+    "name": "Epilepsy",
+    "path": "epilepsy"
+  },
+  {
+    "name": "Erectile dysfunction",
+    "path": "erectile-dysfunction"
+  },
+  {
+    "name": "Excitotoxins (reduction)",
+    "path": "excitotoxins-reduction"
+  },
+  {
+    "name": "Eyesight",
+    "path": "eyesight"
+  },
+  {
+    "name": "Fertility",
+    "path": "fertility"
+  },
+  {
+    "name": "Fibrinogen",
+    "path": "fibrinogen"
+  },
+  {
+    "name": "Fibromyalgia",
+    "path": "fibromyalgia"
+  },
+  {
+    "name": "Focus",
+    "path": "focus"
+  },
+  {
+    "name": "Free radical scavengers",
+    "path": "free-radical-scavengers"
+  },
+  {
+    "name": "Gastrointestinal",
+    "path": "gastrointestinal"
+  },
+  {
+    "name": "Glaucoma",
+    "path": "glaucoma"
+  },
+  {
+    "name": "Glucose Control",
+    "path": "glucose-control"
+  },
+  {
+    "name": "Glycation Prevention",
+    "path": "glycation-prevention"
+  },
+  {
+    "name": "Gonorrhoea",
+    "path": "gonorrhoea"
+  },
+  {
+    "name": "Gout",
+    "path": "gout"
+  },
+  {
+    "name": "Growth Hormone (improvement)",
+    "path": "growth-hormone-improvement"
+  },
+  {
+    "name": "Hair Improvement",
+    "path": "hair-improvement"
+  },
+  {
+    "name": "Hashimoto's Disease",
+    "path": "hashimotos-disease"
+  },
+  {
+    "name": "Headaches",
+    "path": "headaches"
+  },
+  {
+    "name": "Health Diagnostics",
+    "path": "health-diagnostics"
+  },
+  {
+    "name": "Hearing disorders",
+    "path": "hearing-disorders"
+  },
+  {
+    "name": "Heart, arterial &amp; blood",
+    "path": "heart-arterial-blood"
+  },
+  {
+    "name": "Heavy Metals",
+    "path": "heavy-metals"
+  },
+  {
+    "name": "Hemorrhoids",
+    "path": "hemorrhoids"
+  },
+  {
+    "name": "Hepatitis",
+    "path": "hepatitis"
+  },
+  {
+    "name": "Herpes",
+    "path": "herpes"
+  },
+  {
+    "name": "HGH",
+    "path": "hgh"
+  },
+  {
+    "name": "HIV",
+    "path": "hiv"
+  },
+  {
+    "name": "Homocysteine",
+    "path": "homocysteine"
+  },
+  {
+    "name": "HRT (hormone replacement therapy for women- includes supportive agents)",
+    "path": "hrt-hormone-replacement-therapy-for-women-includes-supportive-agents"
+  },
+  {
+    "name": "Human Growth Hormone",
+    "path": "human-growth-hormone"
+  },
+  {
+    "name": "Hyperparathyroidism",
+    "path": "hyperparathyroidism"
+  },
+  {
+    "name": "Hypertension",
+    "path": "hypertension"
+  },
+  {
+    "name": "Hypothyroidism",
+    "path": "hyporthyroidism"
+  },
+  {
+    "name": "IBS (Irritable Bowel Syndrome)",
+    "path": "ibs-irritable-bowel-syndrome"
+  },
+  {
+    "name": "Immune System Improvement",
+    "path": "immune-system-improvement"
+  },
+  {
+    "name": "Infection",
+    "path": "infections"
+  },
+  {
+    "name": "Inflammation",
+    "path": "inflammation"
+  },
+  {
+    "name": "Influenza",
+    "path": "influenza"
+  },
+  {
+    "name": "Insomnia",
+    "path": "insomnia"
+  },
+  {
+    "name": "Insulin &amp; Glucose Control",
+    "path": "insulin-and-gluscose-control"
+  },
+  {
+    "name": "Intestinal Flora",
+    "path": "intestinal-flora"
+  },
+  {
+    "name": "Joints",
+    "path": "joints"
+  },
+  {
+    "name": "Kidney Disorders",
+    "path": "kidney-disorders"
+  },
+  {
+    "name": "Learning",
+    "path": "learning"
+  },
+  {
+    "name": "Libido",
+    "path": "libido"
+  },
+  {
+    "name": "Lipids",
+    "path": "lipids"
+  },
+  {
+    "name": "Liver Disorders",
+    "path": "liver-disorders"
+  },
+  {
+    "name": "Longevity Enhancement (significant lifespan increases seen in animal studies)",
+    "path": "longevity-enhancement"
+  },
+  {
+    "name": "Lou Gehrig\u2019s disease (ALS)",
+    "path": "lou-gehrigs-disease-als"
+  },
+  {
+    "name": "Lungs",
+    "path": "lungs"
+  },
+  {
+    "name": "Lupus",
+    "path": "lupus"
+  },
+  {
+    "name": "Lyme\u2019s Disease",
+    "path": "lymes-disease"
+  },
+  {
+    "name": "Macular degeneration",
+    "path": "macular-degeneration"
+  },
+  {
+    "name": "Memory",
+    "path": "memory"
+  },
+  {
+    "name": "Menopause",
+    "path": "menopause"
+  },
+  {
+    "name": "Mental Stimulants",
+    "path": "mental-stimulants"
+  },
+  {
+    "name": "Methylation (convesion of one chemical into another inside the body)",
+    "path": "methylation"
+  },
+  {
+    "name": "Migraines",
+    "path": "migraines"
+  },
+  {
+    "name": "Mitochondrial Support",
+    "path": "mitochondrial-support"
+  },
+  {
+    "name": "Mtor Inhibitors (mechanistic target of rapamycin)",
+    "path": "mtor-inhibitors"
+  },
+  {
+    "name": "Multiple Sclerosis",
+    "path": "multiple-sclerosis"
+  },
+  {
+    "name": "Muscles",
+    "path": "muscles"
+  },
+  {
+    "name": "Nail Condition",
+    "path": "nail-condition"
+  },
+  {
+    "name": "Narcolepsy (sleeping in the daytime)",
+    "path": "narcolepsy-sleeping-in-the-daytime"
+  },
+  {
+    "name": "Nasal",
+    "path": "nasal"
+  },
+  {
+    "name": "Nitric Oxide Release",
+    "path": "nitric-oxide-release"
+  },
+  {
+    "name": "Oral Health Care",
+    "path": "oral-health-care"
+  },
+  {
+    "name": "Osteoporosis",
+    "path": "osteoporosis"
+  },
+  {
+    "name": "Pain Relief (general)",
+    "path": "pain-relief-general"
+  },
+  {
+    "name": "Parasites",
+    "path": "parasites"
+  },
+  {
+    "name": "Parkinson\u2019s disease",
+    "path": "parkinsons-disease"
+  },
+  {
+    "name": "Pelvic Inflammatory Disease",
+    "path": "pelvic-inflammatory-disease"
+  },
+  {
+    "name": "Pets",
+    "path": "pets"
+  },
+  {
+    "name": "Photoaging",
+    "path": "photoaging"
+  },
+  {
+    "name": "Physical Energy Improvement",
+    "path": "physical-energy-improvement"
+  },
+  {
+    "name": "PMS (Pre-menstrual Syndrome)",
+    "path": "pms-pre-menstrual-syndrome"
+  },
+  {
+    "name": "Polycystic ovarian syndrome(PCOS)",
+    "path": "polycystic-ovarian-syndrome-pcos"
+  },
+  {
+    "name": "Premature ejaculation/ ejaculate",
+    "path": "premature-ejaculation-ejaculate"
+  },
+  {
+    "name": "Probiotics",
+    "path": "probiotics"
+  },
+  {
+    "name": "Prolactin Alteration",
+    "path": "prolactin-alteration"
+  },
+  {
+    "name": "Prostate",
+    "path": "prostate"
+  },
+  {
+    "name": "PSA (Prostate Specific Antigen)",
+    "path": "psa-prostate-specific-antigen"
+  },
+  {
+    "name": "Retina",
+    "path": "retina"
+  },
+  {
+    "name": "RNA",
+    "path": "rna"
+  },
+  {
+    "name": "Sarcopenia (muscle astrophy / wastage)",
+    "path": "sarcopenia-muscle-astrophy-wastage"
+  },
+  {
+    "name": "Senile dementia",
+    "path": "senile-dementia"
+  },
+  {
+    "name": "Senility",
+    "path": "senility"
+  },
+  {
+    "name": "Senolytics (removing senescent cells)",
+    "path": "senolytics-removing-senescent-cells"
+  },
+  {
+    "name": "Sex (Libido)",
+    "path": "sex-libido"
+  },
+  {
+    "name": "Skin - fine lines/wrinkles",
+    "path": "skin-fine-lines-wrinkles"
+  },
+  {
+    "name": "Skin - radiation",
+    "path": "skin-radiation"
+  },
+  {
+    "name": "Skin - sunspots/keratosis",
+    "path": "skin-sunspots-keratosis"
+  },
+  {
+    "name": "Skin Cancer (non-melanoma)",
+    "path": "skin-cancer-non-melanoma"
+  },
+  {
+    "name": "Skin Discoloration",
+    "path": "skin-discoloration"
+  },
+  {
+    "name": "Skin moisture",
+    "path": "skin-moisture"
+  },
+  {
+    "name": "Skin problems",
+    "path": "skin-problems"
+  },
+  {
+    "name": "Sleep Disorders",
+    "path": "sleep-disorders"
+  },
+  {
+    "name": "Smoking Cessation",
+    "path": "smoking-cessation"
+  },
+  {
+    "name": "Spine Issues",
+    "path": "spine-issues"
+  },
+  {
+    "name": "Sports",
+    "path": "sports"
+  },
+  {
+    "name": "STD",
+    "path": "std"
+  },
+  {
+    "name": "Stem Cells",
+    "path": "stem-cells"
+  },
+  {
+    "name": "Stomach",
+    "path": "stomach"
+  },
+  {
+    "name": "Stress",
+    "path": "stress"
+  },
+  {
+    "name": "Stroke",
+    "path": "stroke"
+  },
+  {
+    "name": "Syndrome X (metabolic syndrome)",
+    "path": "syndrome-x-metabolic-syndrome"
+  },
+  {
+    "name": "Tanning (darkening skin color)",
+    "path": "tanning-darkening-skin-color"
+  },
+  {
+    "name": "Teeth &amp; Gum Disorders",
+    "path": "teeth-and-gum-disorders"
+  },
+  {
+    "name": "Telomeres",
+    "path": "telomeres"
+  },
+  {
+    "name": "Testosterone &amp; Testes",
+    "path": "testosterone-and-testes"
+  },
+  {
+    "name": "Thyroid",
+    "path": "thyroid"
+  },
+  {
+    "name": "Triglycerides",
+    "path": "triglycerides"
+  },
+  {
+    "name": "Urination (frequent)",
+    "path": "urination-frequent"
+  },
+  {
+    "name": "Veterinarian",
+    "path": "veterinarian"
+  },
+  {
+    "name": "Weight Gain",
+    "path": "weight-gain"
+  },
+  {
+    "name": "Weight Loss",
+    "path": "weight-loss"
+  },
+  {
+    "name": "Well-being",
+    "path": "well-being"
+  }
+]
