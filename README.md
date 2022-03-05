@@ -13,7 +13,7 @@ Features:
 
 Compare it to the LOINC Reference database and their search portal: https://loinc.org/search/
 
-![Search](public/static/curedao_search.png)
+![Search](docs/assets/curedao_search.png)
 
 
 ## Architecture
