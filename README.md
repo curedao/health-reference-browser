@@ -1,4 +1,4 @@
-# Health Reference Online Browser
+# Health Reference Browser
 Web frontend application to browse all health data references and interact from online
 
 View the running application here: [search.curedao.org](https://search.curedao.org/)
